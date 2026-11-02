@@ -1,6 +1,6 @@
 ---
 title: Everyday Discipleship
-description: Spiritual growth involves small, repeated choices: listening to Jesus, practicing prayer, and sharing life with others.
+description: "Spiritual growth involves small, repeated choices: listening to Jesus, practicing prayer, and sharing life with others."
 ---
 # Everyday Discipleship
 
