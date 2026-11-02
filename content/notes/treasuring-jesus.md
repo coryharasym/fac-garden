@@ -1,6 +1,6 @@
 ---
 title: Treasuring Jesus
-description: Following Jesus is more than pursuing a list of outcomes. It raises a question: do we value Jesus himself, or only what we hope he will give us?
+description: "Following Jesus is more than pursuing a list of outcomes. It raises a question: do we value Jesus himself, or only what we hope he will give us?"
 ---
 # Treasuring Jesus
 
