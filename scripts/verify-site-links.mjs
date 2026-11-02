@@ -64,6 +64,8 @@ for(const file of files){
   const title=html.match(/<title>([\s\S]*?)<\/title>/i)?.[1];
   if(!title?.trim()||/^untitled(?:$|\s*\|)/i.test(title))
     failures.push(name+": meaningful browser title missing");
+  if(!/static\/contentIndex\.json\?v=[a-f0-9]{16}["']/.test(html))
+    failures.push(name+": search index must have a content version to avoid stale cached titles");
   const navs=[...html.matchAll(/<nav\b[^>]*class="[^"]*\bfac-site-nav\b[^"]*"[^>]*>([\s\S]*?)<\/nav>/gi)];
   if(name!=="404.html"){
     if(navs.length!==1)failures.push(name+": expected one main navigation, found "+navs.length);

@@ -2,8 +2,12 @@
 // Inject after Quartz has processed links so site base paths are never rewritten twice.
 import { readFileSync, writeFileSync, readdirSync } from "node:fs";
 import { join, relative, sep } from "node:path";
+import { createHash } from "node:crypto";
 const root=process.argv[2];
 if(!root)throw Error("Usage: node finalize-site.mjs <quartz-public-directory>");
+// Search and backlinks share this un-hashed JSON URL. Give each content version
+// a distinct request URL so a refreshed page cannot reuse an older search index.
+const indexVersion=createHash("sha256").update(readFileSync(join(root,"static/contentIndex.json"))).digest("hex").slice(0,16);
 const base="/fac-garden/";
 const items=[
   ["Home",""],["First Steps","first-steps/"],["Explore Topics","topics/"],
@@ -17,8 +21,9 @@ function walk(dir){
     if(entry.isDirectory()){walk(file);continue;}
     if(!entry.isFile()||!file.endsWith(".html"))continue;
     const name=relative(root,file).split(sep).join("/");
-    if(name==="404.html")continue;
-    const html=readFileSync(file,"utf8");
+    const html=readFileSync(file,"utf8").replace(/static\/contentIndex\.json(?=["'])/g,
+      "static/contentIndex.json?v="+indexVersion);
+    if(name==="404.html"){writeFileSync(file,html);continue;}
     // We intentionally DO NOT inject into Markdown before rendering. Quartz 5
     // processes raw HTML hrefs, so pre-injected /fac-garden/ paths can be mangled.
     if(html.includes('class="fac-site-nav"')){
