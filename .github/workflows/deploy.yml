@@ -47,6 +47,8 @@ jobs:
       - name: Build site
         run: npx quartz build
         working-directory: quartz-site
+      - name: Complete navigation on Quartz folder pages
+        run: node garden/scripts/finalize-site.mjs quartz-site/public
       - name: Validate generated site links
         run: node garden/scripts/verify-site-links.mjs quartz-site/public
       - uses: actions/upload-pages-artifact@v3

@@ -18,30 +18,10 @@ description: "Explore First Steps, stories, Bible teaching, and connected ideas 
   <h2 id="fac-choose-title">Where would you like to begin?</h2>
   <p>Whether you're wondering about Jesus, looking for a story, or revisiting a teaching, there's a place for you here.</p>
   <div class="fac-card-grid">
-    <a class="fac-card fac-card-green" href="/first-steps/">
-      <span class="fac-card-icon" aria-hidden="true">↗</span>
-      <h3>First Steps</h3>
-      <p>New to faith? Explore Alpha, baptism, classes, and growing with others.</p>
-      <span class="fac-card-action">Find your next step →</span>
-    </a>
-    <a class="fac-card fac-card-blue" href="/topics/">
-      <span class="fac-card-icon" aria-hidden="true">◎</span>
-      <h3>Explore Topics</h3>
-      <p>Follow questions about Jesus, spiritual growth, and life in community.</p>
-      <span class="fac-card-action">Explore ideas →</span>
-    </a>
-    <a class="fac-card" href="/blog/">
-      <span class="fac-card-icon" aria-hidden="true">✳</span>
-      <h3>Blog &amp; Stories</h3>
-      <p>Read teaching, reflections, and real stories from FAC's blog.</p>
-      <span class="fac-card-action">Browse the stories →</span>
-    </a>
-    <a class="fac-card" href="/archive/">
-      <span class="fac-card-icon" aria-hidden="true">▤</span>
-      <h3>Resource Library</h3>
-      <p>Find original FAC articles and learning resources in one place.</p>
-      <span class="fac-card-action">Browse resources →</span>
-    </a>
+    <a class="fac-card fac-card-green" href="/first-steps/"><span class="fac-card-icon" aria-hidden="true">↗</span><span class="fac-card-title">First Steps</span><span class="fac-card-description">New to faith? Explore Alpha, baptism, classes, and growing with others.</span><span class="fac-card-action">Find your next step →</span></a>
+    <a class="fac-card fac-card-blue" href="/topics/"><span class="fac-card-icon" aria-hidden="true">◎</span><span class="fac-card-title">Explore Topics</span><span class="fac-card-description">Follow questions about Jesus, spiritual growth, and life in community.</span><span class="fac-card-action">Explore ideas →</span></a>
+    <a class="fac-card" href="/blog/"><span class="fac-card-icon" aria-hidden="true">✳</span><span class="fac-card-title">Blog &amp; Stories</span><span class="fac-card-description">Read teaching, reflections, and real stories from FAC's blog.</span><span class="fac-card-action">Browse the stories →</span></a>
+    <a class="fac-card" href="/archive/"><span class="fac-card-icon" aria-hidden="true">▤</span><span class="fac-card-title">Resource Library</span><span class="fac-card-description">Find original FAC articles and learning resources in one place.</span><span class="fac-card-action">Browse resources →</span></a>
   </div>
 </section>
 

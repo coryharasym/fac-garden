@@ -15,6 +15,19 @@ for(const file of pages){
  const source=readFileSync(file,"utf8");
  if(source.includes("/fac-garden/fac-garden/"))errors.push(name+": duplicated base path");
  if(!source.includes('fac-site-nav') && name!=="404.html")errors.push(name+": navigation missing");
+ if(name==="index.html"){
+  const section=source.match(/<div class="fac-card-grid">([\s\S]*?)<\/div>/);
+  if(!section){errors.push("Homepage card grid missing");}
+  else {
+   const cards=[...section[1].matchAll(/<a\b[^>]*class="[^"]*\bfac-card\b[^"]*"[^>]*>([\s\S]*?)<\/a>/g)];
+   if(cards.length!==4)errors.push("Expected four complete homepage cards; got "+cards.length);
+   for(const card of cards){
+    for(const part of ["fac-card-icon","fac-card-title","fac-card-description","fac-card-action"]){
+      if(!card[1].includes(part))errors.push("Homepage card missing "+part);
+    }
+   }
+  }
+ }
  const slug=name==="index.html"?"":name.endsWith("/index.html")?name.slice(0,-10):name;
  const current=new URL(prefix+slug,base);
  const anchors=source.match(/<a\b[^>]*href="[^"]*"[^>]*>/gi)||[];
