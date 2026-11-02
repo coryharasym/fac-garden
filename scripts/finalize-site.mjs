@@ -21,8 +21,11 @@ function walk(directory) {
     const active=name==="index.html"?"":name.startsWith("first-steps/")?"first-steps/":name.startsWith("topics/")?"topics/":name.startsWith("blog/")?"blog/":name.startsWith("archive/")||name.startsWith("notes/")?"archive/":"";
     const links=navItems.map(([label,slug])=>'<a href="'+base+slug+'"'+(slug===active?' aria-current="page"':'')+'>'+label+"</a>").join("");
     const nav='<nav class="fac-site-nav" aria-label="Main navigation"><a class="fac-brand" href="'+base+'">FAC Garden</a><div class="fac-nav-links">'+links+'</div></nav>';
-    if (!/<article\b[^>]*>/i.test(html)) throw Error("Cannot insert nav: article missing in "+name);
-    const output=html.replace(/<article\b[^>]*>/i,m=>m+nav);
+    // Folder pages use a different Quartz frame and may not include <article>.
+    // Insert at the start of the central content area for every page type.
+    const target=/<div\b[^>]*class="[^"]*\bcenter\b[^"]*"[^>]*>/i;
+    if (!target.test(html)) throw Error("Cannot find Quartz center in "+name);
+    const output=html.replace(target,m=>m+nav);
     writeFileSync(file,output);
     count++;
   }
