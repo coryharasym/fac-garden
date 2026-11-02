@@ -13,12 +13,12 @@ This is a **curated starting collection**, not a complete or automatically updat
 ## Browse by category
 
 <div class="fac-category-grid">
-  <a class="fac-category-card" href="/fac-garden/blog/categories/teaching-reflection.html"><strong>Teaching &amp; Reflection</strong><span>Explore biblical teaching and everyday faith →</span></a>
-  <a class="fac-category-card" href="/fac-garden/blog/categories/stories.html"><strong>Stories</strong><span>Hear how people are following Jesus →</span></a>
-  <a class="fac-category-card" href="/fac-garden/blog/categories/community.html"><strong>Community</strong><span>See faith lived out together →</span></a>
-  <a class="fac-category-card" href="/fac-garden/blog/categories/life-at-fac.html"><strong>Life at FAC</strong><span>Find what God's doing in our community →</span></a>
-  <a class="fac-category-card" href="/fac-garden/blog/categories/family-life.html"><strong>Family Life</strong><span>Explore relationships and everyday care →</span></a>
-  <a class="fac-category-card" href="/fac-garden/blog/categories/first-steps.html"><strong>First Steps in Faith</strong><span>Read stories about Alpha, baptism and learning →</span></a>
+  <a class="fac-category-card" href="/blog/categories/teaching-reflection.html"><strong>Teaching &amp; Reflection</strong><span>Explore biblical teaching and everyday faith →</span></a>
+  <a class="fac-category-card" href="/blog/categories/stories.html"><strong>Stories</strong><span>Hear how people are following Jesus →</span></a>
+  <a class="fac-category-card" href="/blog/categories/community.html"><strong>Community</strong><span>See faith lived out together →</span></a>
+  <a class="fac-category-card" href="/blog/categories/life-at-fac.html"><strong>Life at FAC</strong><span>Find what God's doing in our community →</span></a>
+  <a class="fac-category-card" href="/blog/categories/family-life.html"><strong>Family Life</strong><span>Explore relationships and everyday care →</span></a>
+  <a class="fac-category-card" href="/blog/categories/first-steps.html"><strong>First Steps in Faith</strong><span>Read stories about Alpha, baptism and learning →</span></a>
 </div>
 
 ## Most recent selected posts

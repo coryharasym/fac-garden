@@ -5,7 +5,7 @@ import { join, relative, sep } from "node:path";
 
 const root = process.argv[2];
 if (!root) throw new Error("Usage: node scripts/prepare-site.mjs <quartz-content-folder>");
-const base = "/fac-garden/";
+const base = "/";
 const items = [
   ["Home", ""], ["First Steps", "first-steps/"], ["Explore Topics", "topics/"],
   ["Blog & Stories", "blog/"], ["Library", "archive/"],

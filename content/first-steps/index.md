@@ -14,10 +14,10 @@ You do not need to complete all these steps in a prescribed order.
 ## Find a starting point
 
 <div class="fac-category-grid">
-  <a class="fac-category-card" href="/fac-garden/first-steps/alpha.html"><strong>Explore Alpha</strong><span>Bring your questions about life and faith →</span></a>
-  <a class="fac-category-card" href="/fac-garden/first-steps/baptism.html"><strong>Learn about Baptism</strong><span>Discover what it means to take this step →</span></a>
-  <a class="fac-category-card" href="/fac-garden/first-steps/classes.html"><strong>Browse Classes</strong><span>Explore Christian beliefs and practices →</span></a>
-  <a class="fac-category-card" href="/fac-garden/first-steps/discipleship-bands.html"><strong>Discover Discipleship Bands</strong><span>Grow together through prayer and conversation →</span></a>
+  <a class="fac-category-card" href="/first-steps/alpha.html"><strong>Explore Alpha</strong><span>Bring your questions about life and faith →</span></a>
+  <a class="fac-category-card" href="/first-steps/baptism.html"><strong>Learn about Baptism</strong><span>Discover what it means to take this step →</span></a>
+  <a class="fac-category-card" href="/first-steps/classes.html"><strong>Browse Classes</strong><span>Explore Christian beliefs and practices →</span></a>
+  <a class="fac-category-card" href="/first-steps/discipleship-bands.html"><strong>Discover Discipleship Bands</strong><span>Grow together through prayer and conversation →</span></a>
 </div>
 
 ### 1. [[first-steps/alpha|Alpha — ask big questions]]
