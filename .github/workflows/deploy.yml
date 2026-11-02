@@ -1,0 +1,60 @@
+name: Deploy FAC Garden to GitHub Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: garden
+          fetch-depth: 0
+      - uses: actions/checkout@v4
+        with:
+          repository: jackyzha0/quartz
+          ref: 97a2d05f80c4c50534959b1d0d41cc4b3895625e
+          path: quartz-site
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: quartz-site/package-lock.json
+      - name: Install Quartz dependencies
+        run: npm ci
+        working-directory: quartz-site
+      - name: Overlay FAC content and configuration
+        run: |
+          rm -rf quartz-site/content
+          cp -R garden/content quartz-site/content
+          cp garden/quartz.config.yaml quartz-site/quartz.config.yaml
+      - name: Install Quartz plugins
+        run: npx quartz plugin install --from-config
+        working-directory: quartz-site
+      - name: Build site
+        run: npx quartz build
+        working-directory: quartz-site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: quartz-site/public
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
