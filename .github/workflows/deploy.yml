@@ -39,6 +39,8 @@ jobs:
           rm -rf quartz-site/content
           cp -R garden/content quartz-site/content
           cp garden/quartz.config.yaml quartz-site/quartz.config.yaml
+          cp garden/quartz/styles/custom.scss quartz-site/quartz/styles/custom.scss
+          node garden/scripts/prepare-site.mjs quartz-site/content
       - name: Install Quartz plugins
         run: npx quartz plugin install --from-config
         working-directory: quartz-site

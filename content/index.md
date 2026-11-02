@@ -1,40 +1,75 @@
 ---
-title: FAC Digital Garden
-description: An evolving collection of connections between faith, Scripture, discipleship, and community, inspired by resources from First Alliance Church Calgary.
+title: "FAC Digital Garden"
+description: "Explore First Steps, stories, Bible teaching, and connected ideas inspired by First Alliance Church Calgary."
 ---
 
-# Welcome to the FAC Digital Garden 🌱
+<section class="fac-hero" aria-labelledby="fac-hero-title">
+  <p class="fac-eyebrow">WELCOME TO THE DIGITAL GARDEN</p>
+  <h1 id="fac-hero-title">Grow in faith.<br />Explore ideas.<br />Find connection.</h1>
+  <p class="fac-lead">We're learning what it looks like to join Jesus in the renewal of all things. Explore stories, questions, and practical resources inspired by First Alliance Church in Calgary.</p>
+  <div class="fac-hero-actions">
+    <a class="fac-button fac-button-primary" href="/fac-garden/first-steps/">Explore First Steps <span aria-hidden="true">↗</span></a>
+    <a class="fac-button fac-button-secondary" href="/fac-garden/blog/">Browse Stories <span aria-hidden="true">↗</span></a>
+  </div>
+</section>
 
-**Explore faith. Follow Jesus. Grow together.**
+<section class="fac-section" aria-labelledby="fac-choose-title">
+  <p class="fac-eyebrow">FIND YOUR WAY</p>
+  <h2 id="fac-choose-title">Where would you like to begin?</h2>
+  <p>Whether you're wondering about Jesus, looking for a story, or revisiting a teaching, there's a place for you here.</p>
+  <div class="fac-card-grid">
+    <a class="fac-card fac-card-green" href="/fac-garden/first-steps/">
+      <span class="fac-card-icon" aria-hidden="true">↗</span>
+      <h3>First Steps</h3>
+      <p>New to faith? Explore Alpha, baptism, classes, and growing with others.</p>
+      <span class="fac-card-action">Find your next step →</span>
+    </a>
+    <a class="fac-card fac-card-blue" href="/fac-garden/topics/">
+      <span class="fac-card-icon" aria-hidden="true">◎</span>
+      <h3>Explore Topics</h3>
+      <p>Follow questions about Jesus, spiritual growth, and life in community.</p>
+      <span class="fac-card-action">Explore ideas →</span>
+    </a>
+    <a class="fac-card" href="/fac-garden/blog/">
+      <span class="fac-card-icon" aria-hidden="true">✳</span>
+      <h3>Blog &amp; Stories</h3>
+      <p>Read teaching, reflections, and real stories from FAC's blog.</p>
+      <span class="fac-card-action">Browse the stories →</span>
+    </a>
+    <a class="fac-card" href="/fac-garden/archive/">
+      <span class="fac-card-icon" aria-hidden="true">▤</span>
+      <h3>Resource Library</h3>
+      <p>Find original FAC articles and learning resources in one place.</p>
+      <span class="fac-card-action">Browse resources →</span>
+    </a>
+  </div>
+</section>
 
-This is an emerging collection of ideas, questions, and learning resources inspired by teaching and stories from [First Alliance Church in Calgary](https://www.faccalgary.com/). Whether you're part of FAC or simply curious about Christianity, you're welcome to explore at your own pace.
+<section class="fac-feature" aria-labelledby="fac-feature-title">
+  <p class="fac-eyebrow">A PLACE TO START</p>
+  <h2 id="fac-feature-title">Curious about following Jesus?</h2>
+  <p>You don't have to have it all figured out. FAC's First Steps resources offer ways to ask questions, learn, and connect.</p>
+  <div class="fac-feature-links">
+    <a href="/fac-garden/first-steps/alpha.html">Explore Alpha →</a>
+    <a href="/fac-garden/first-steps/baptism.html">Learn about baptism →</a>
+    <a href="/fac-garden/first-steps/classes.html">Browse classes →</a>
+    <a href="/fac-garden/first-steps/discipleship-bands.html">Discover Discipleship Bands →</a>
+  </div>
+</section>
 
-Unlike a traditional archive, a *digital garden* grows through connections: an article may lead to a question, a question to a Bible passage, and a practice to life in community.
+<section class="fac-section" aria-labelledby="fac-topics-title">
+  <p class="fac-eyebrow">GO A LITTLE DEEPER</p>
+  <h2 id="fac-topics-title">Explore connected ideas</h2>
+  <p>Unlike a traditional archive, this garden links related ideas. Follow a thought from a story to a Scripture theme and then into everyday life.</p>
+  <div class="fac-topic-list">
+    <a href="/fac-garden/topics/exploring-faith.html"><strong>Exploring Faith</strong><span>Questions about Jesus and Christian belief →</span></a>
+    <a href="/fac-garden/topics/following-jesus.html"><strong>Following Jesus</strong><span>Prayer, trust, and spiritual growth →</span></a>
+    <a href="/fac-garden/topics/faith-in-community.html"><strong>Faith in Community</strong><span>Belonging, care, and serving together →</span></a>
+  </div>
+  <p class="fac-garden-link"><a href="/fac-garden/notes/">Explore growing garden notes →</a></p>
+</section>
 
-## New to faith? Begin with First Steps
-
-**[[first-steps/index|First Steps at FAC]]** is a welcoming starting point for exploring Jesus, Christian belief, and life with others. Follow pathways into **[[first-steps/alpha|Alpha]]**, **[[first-steps/baptism|Baptism]]**, **[[first-steps/classes|Classes and Catechism]]**, and **[[first-steps/discipleship-bands|Discipleship Bands]]**.
-
-## Choose a place to begin
-
-- **[[topics/exploring-faith|Exploring Faith]]** — Questions about Jesus, Christian belief, and the Bible.
-- **[[topics/following-jesus|Following Jesus]]** — Prayer, trust, spiritual habits, and growing as a disciple.
-- **[[topics/faith-in-community|Faith in Community]]** — Belonging, relationships, generosity, and serving others.
-
-## Browse FAC's blog and stories
-
-**[[blog/index|Browse 30 selected FAC Blog & Stories posts]]** by theme or date. Each entry links to the full original article on FAC's site.
-
-## Two ways to explore
-
-**[Browse the source archive](archive/)** for short descriptions of FAC material and direct links to the original articles and resources.
-
-**[Explore connected garden notes](notes/)** for short, evolving reflections that bring related ideas together. Try [[notes/treasuring-jesus]], [[notes/prayer-and-listening]], or [[notes/belonging-and-community]].
-
-Use search to find a subject, or follow the links and backlinks between notes.
-
-## About this experiment
-
-This is a **prototype curated independently by one editor**, not an official statement or publication of First Alliance Church. For FAC's official beliefs, events, programs, and pastoral care, please visit [faccalgary.com](https://www.faccalgary.com/). The original writers and FAC retain ownership of their source material.
-
-Learn more about [[about/index|how this garden is maintained]].
+<aside class="fac-prototype">
+  <strong>About this garden</strong>
+  <p>This is an independently curated prototype inspired by First Alliance Church Calgary, not an official church publication. Original writing belongs to its authors. For current ministry information, visit <a href="https://www.faccalgary.com/">FAC's official website</a>. Learn more <a href="/fac-garden/about/">about this project</a>.</p>
+</aside>

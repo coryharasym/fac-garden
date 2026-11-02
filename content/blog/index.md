@@ -11,12 +11,15 @@ Here are **30 selected posts**, organized so you can find something relevant and
 This is a **curated starting collection**, not a complete or automatically updating copy of FAC's blog.
 
 ## Browse by category
-- [[blog/categories/teaching-reflection|Teaching & Reflection]] — 7 selected posts
-- [[blog/categories/community|Community]] — 5 selected posts
-- [[blog/categories/life-at-fac|Life at FAC]] — 4 selected posts
-- [[blog/categories/stories|Stories]] — 10 selected posts
-- [[blog/categories/family-life|Family Life]] — 4 selected posts
-- [[blog/categories/first-steps|First Steps in Faith]] — selected stories and teaching connected to Alpha, baptism, and Catechism
+
+<div class="fac-category-grid">
+  <a class="fac-category-card" href="/fac-garden/blog/categories/teaching-reflection.html"><strong>Teaching &amp; Reflection</strong><span>Explore biblical teaching and everyday faith →</span></a>
+  <a class="fac-category-card" href="/fac-garden/blog/categories/stories.html"><strong>Stories</strong><span>Hear how people are following Jesus →</span></a>
+  <a class="fac-category-card" href="/fac-garden/blog/categories/community.html"><strong>Community</strong><span>See faith lived out together →</span></a>
+  <a class="fac-category-card" href="/fac-garden/blog/categories/life-at-fac.html"><strong>Life at FAC</strong><span>Find what God's doing in our community →</span></a>
+  <a class="fac-category-card" href="/fac-garden/blog/categories/family-life.html"><strong>Family Life</strong><span>Explore relationships and everyday care →</span></a>
+  <a class="fac-category-card" href="/fac-garden/blog/categories/first-steps.html"><strong>First Steps in Faith</strong><span>Read stories about Alpha, baptism and learning →</span></a>
+</div>
 
 ## Most recent selected posts
 - **2026-10-29** · [[archive/beyond-the-live-stream|Beyond the Live Stream: Discovering Community at FAC]]

@@ -30,3 +30,8 @@ To publish new content, commit changes to `main` through GitHub (or request an e
 - Entries are curated manually, not continuously synced from FAC's source website.
 
 Source: https://www.faccalgary.com/blog and https://www.faccalgary.com/firststeps
+
+
+## Brand and navigation implementation
+
+See [docs/FAC-DESIGN-GUIDE.md](docs/FAC-DESIGN-GUIDE.md) for typography, colours, mission and tone. The primary navigation is generated only during the GitHub Actions build by `scripts/prepare-site.mjs`; it does **not** rewrite content in the repository. The build copies `quartz/styles/custom.scss` into the pinned Quartz engine to apply the FAC design. No local Quartz installation is necessary. If the published base path changes, update `base` in `scripts/prepare-site.mjs` and root-page links. 
