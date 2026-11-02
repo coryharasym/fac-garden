@@ -2,22 +2,34 @@
 title: "What Jonah Teaches Us About God's Mercy (Even When We Want to Run)"
 description: "A reflection on Jonah, God's mercy, and extending compassion beyond ourselves."
 date: "2026-07-30"
+created: "2026-07-30T17:58:37.000Z"
+published: "2026-07-30T17:58:37.000Z"
+modified: "2026-07-30T20:01:02.635Z"
+source_url: "https://www.faccalgary.com/post/what-jonah-teaches-us-about-mercy"
+source_verified: "2026-11-02"
 tags:
   - fac-blog
   - teaching-reflection
-source_url: "https://www.faccalgary.com/post/what-jonah-teaches-us-about-mercy"
 ---
 
 # What Jonah Teaches Us About God's Mercy (Even When We Want to Run)
 
-**FAC publication date:** 2026-07-30 · **Category:** [[blog/categories/teaching-reflection|Teaching & Reflection]]
+**FAC publication date:** 2026-07-30
+
+**Browse by category:** [[blog/categories/teaching-reflection|Teaching & Reflection]]
 
 A reflection on Jonah, God's mercy, and extending compassion beyond ourselves.
 
-**[Read the original article on First Alliance Church's website](https://www.faccalgary.com/post/what-jonah-teaches-us-about-mercy)**
+**[Read the original article on First Alliance Church’s website](https://www.faccalgary.com/post/what-jonah-teaches-us-about-mercy)**
 
-## Follow connections
+## Related themes
 
-[[notes/mercy-and-grace|Related garden note]] · [[blog/index|Browse FAC Blog & Stories]]
+[[topics/mercy-and-grace|Mercy, Grace & Forgiveness]]
 
-*This is a short independently curated catalogue entry, not a copy of the source article. The original source and its attribution remain with FAC.*
+## Garden notes
+
+[[notes/mercy-and-grace]]
+
+[[blog/index|All Blog & Stories]] · [[topics/index|Explore Topics]] · [[index|Home]]
+
+*This is a short independently curated catalogue entry. Original writing and attribution remain with FAC.*

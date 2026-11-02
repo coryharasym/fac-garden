@@ -77,6 +77,20 @@ for(const file of files){
       }
     }
   }
+  if(name==="topics/index.html"){
+    const cards=[...html.matchAll(/<a\b[^>]*class="[^"]*\bfac-theme-card\b[^"]*"[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/gi)];
+    const expected=files.map(f=>relative(root,f).split(sep).join("/"))
+      .filter(path=>/^topics\/[^/]+\.html$/.test(path)&&path!=="topics/index.html")
+      .map(path=>prefix+path.replace(/\.html$/,""));
+    const targets=new Set(cards.map(card=>new URL(card[1],origin+prefix+"topics/").pathname.replace(/\.html$/,"")));
+    if(expected.length<15||cards.length!==expected.length||targets.size!==expected.length)
+      failures.push("Topics directory must list every theme once, with at least 15 themes");
+    for(const target of expected)
+      if(!targets.has(target))failures.push("Topics directory missing theme "+target);
+    for(const card of cards)
+      if(!/<strong>[^<]+<\/strong>/.test(card[2])||!/<span>[^<]+<\/span>/.test(card[2]))
+        failures.push("Theme card must have a title and description");
+  }
   if(name==="index.html"){
     const section=html.match(/<div class="fac-card-grid">([\s\S]*?)<\/div>/);
     if(!section)failures.push("Homepage card grid missing");

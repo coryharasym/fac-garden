@@ -2,22 +2,35 @@
 title: "Joining Jesus in Ogden: A New Expression of FAC this Fall"
 description: "The relationships and local partnerships behind FAC's growing presence in Ogden."
 date: "2026-07-16"
+created: "2026-07-16T14:10:23.000Z"
+published: "2026-07-16T14:10:23.000Z"
+modified: "2026-07-16T14:10:23.000Z"
+source_url: "https://www.faccalgary.com/post/joining-jesus-in-ogden"
+source_verified: "2026-11-02"
 tags:
   - fac-blog
   - community
-source_url: "https://www.faccalgary.com/post/joining-jesus-in-ogden"
+  - life-at-fac
 ---
 
 # Joining Jesus in Ogden: A New Expression of FAC this Fall
 
-**FAC publication date:** 2026-07-16 · **Category:** [[blog/categories/community|Community]]
+**FAC publication date:** 2026-07-16
+
+**Browse by category:** [[blog/categories/community|Community]] · [[blog/categories/life-at-fac|Life at FAC]]
 
 The relationships and local partnerships behind FAC's growing presence in Ogden.
 
-**[Read the original article on First Alliance Church's website](https://www.faccalgary.com/post/joining-jesus-in-ogden)**
+**[Read the original article on First Alliance Church’s website](https://www.faccalgary.com/post/joining-jesus-in-ogden)**
 
-## Follow connections
+## Related themes
 
-[[notes/belonging-and-community|Related garden note]] · [[blog/index|Browse FAC Blog & Stories]]
+[[topics/mission-and-serving|Mission, Serving & Neighbourhoods]]
 
-*This is a short independently curated catalogue entry, not a copy of the source article. The original source and its attribution remain with FAC.*
+## Garden notes
+
+[[notes/belonging-and-community]]
+
+[[blog/index|All Blog & Stories]] · [[topics/index|Explore Topics]] · [[index|Home]]
+
+*This is a short independently curated catalogue entry. Original writing and attribution remain with FAC.*

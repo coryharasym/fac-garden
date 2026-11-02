@@ -306,3 +306,17 @@ article > p > a:hover, article li > a:hover { text-decoration: underline; }
 @media (max-width: 720px) {
   .page .center > .fac-site-nav { margin-top: 0; margin-bottom: 1.4rem; }
 }
+
+/* The curated Topics directory replaces Quartz's duplicate folder listing. */
+article.fac-topic-directory + .page-listing,
+article.fac-curated-directory + .page-listing { display: none; }
+.fac-theme-grid > a.fac-theme-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 0;
+  gap: .5rem;
+  border-left: 4px solid var(--fac-blue);
+}
+.fac-theme-grid .fac-theme-action { color: var(--secondary); font-weight: 750; margin-top: auto; }
+.fac-theme-card:focus-visible { outline: 3px solid var(--secondary); outline-offset: 3px; }

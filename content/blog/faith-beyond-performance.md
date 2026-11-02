@@ -2,22 +2,34 @@
 title: "Finding Faith Beyond Performance"
 description: "A personal reflection on receiving God's love rather than trying to earn it through performance."
 date: "2026-10-15"
+created: "2026-10-15T14:07:22.927Z"
+published: "2026-10-15T14:07:22.927Z"
+modified: "2026-10-15T14:07:22.927Z"
+source_url: "https://www.faccalgary.com/post/faith-beyond-performance"
+source_verified: "2026-11-02"
 tags:
   - fac-blog
   - stories
-source_url: "https://www.faccalgary.com/post/faith-beyond-performance"
 ---
 
 # Finding Faith Beyond Performance
 
-**FAC publication date:** 2026-10-15 · **Category:** [[blog/categories/stories|Stories]]
+**FAC publication date:** 2026-10-15
+
+**Browse by category:** [[blog/categories/stories|Stories]]
 
 A personal reflection on receiving God's love rather than trying to earn it through performance.
 
-**[Read the original article on First Alliance Church's website](https://www.faccalgary.com/post/faith-beyond-performance)**
+**[Read the original article on First Alliance Church’s website](https://www.faccalgary.com/post/faith-beyond-performance)**
 
-## Follow connections
+## Related themes
 
-[[notes/treasuring-jesus|Related garden note]] · [[blog/index|Browse FAC Blog & Stories]]
+[[topics/mercy-and-grace|Mercy, Grace & Forgiveness]]
 
-*This is a short independently curated catalogue entry, not a copy of the source article. The original source and its attribution remain with FAC.*
+## Garden notes
+
+[[notes/treasuring-jesus]]
+
+[[blog/index|All Blog & Stories]] · [[topics/index|Explore Topics]] · [[index|Home]]
+
+*This is a short independently curated catalogue entry. Original writing and attribution remain with FAC.*

@@ -2,22 +2,36 @@
 title: "A Surprise Step of Faith at FAC Southwest"
 description: "A story about finding the courage to be baptized and publicly express faith."
 date: "2026-03-18"
+created: "2026-03-18T19:50:42.688Z"
+published: "2026-03-18T19:50:42.688Z"
+modified: "2026-03-18T19:50:42.688Z"
+source_url: "https://www.faccalgary.com/post/surprise-step-of-faith"
+source_verified: "2026-11-02"
 tags:
   - fac-blog
   - stories
-source_url: "https://www.faccalgary.com/post/surprise-step-of-faith"
+  - life-at-fac
+  - first-steps
 ---
 
 # A Surprise Step of Faith at FAC Southwest
 
-**FAC publication date:** 2026-03-18 · **Category:** [[blog/categories/stories|Stories]]
+**FAC publication date:** 2026-03-18
+
+**Browse by category:** [[blog/categories/stories|Stories]] · [[blog/categories/life-at-fac|Life at FAC]] · [[blog/categories/first-steps|First Steps in Faith]]
 
 A story about finding the courage to be baptized and publicly express faith.
 
-**[Read the original article on First Alliance Church's website](https://www.faccalgary.com/post/surprise-step-of-faith)**
+**[Read the original article on First Alliance Church’s website](https://www.faccalgary.com/post/surprise-step-of-faith)**
 
-## Follow connections
+## Related themes
 
-[[notes/everyday-discipleship|Related garden note]] · [[first-steps/index|First Steps]] · [[blog/index|Browse FAC Blog & Stories]]
+[[topics/baptism-and-new-life|Baptism & New Beginnings]]
 
-*This is a short independently curated catalogue entry, not a copy of the source article. The original source and its attribution remain with FAC.*
+## Garden notes
+
+[[notes/everyday-discipleship]]
+
+[[blog/index|All Blog & Stories]] · [[topics/index|Explore Topics]] · [[index|Home]]
+
+*This is a short independently curated catalogue entry. Original writing and attribution remain with FAC.*

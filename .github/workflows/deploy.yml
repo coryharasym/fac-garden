@@ -16,6 +16,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      TZ: America/Edmonton
     steps:
       - uses: actions/checkout@v4
         with:
@@ -50,6 +52,8 @@ jobs:
         run: node garden/scripts/finalize-site.mjs quartz-site/public
       - name: Validate generated site links
         run: node garden/scripts/verify-site-links.mjs quartz-site/public
+      - name: Validate original FAC article dates and theme connections
+        run: node garden/scripts/verify-blog-catalogue.mjs quartz-site/public
       - uses: actions/upload-pages-artifact@v3
         with:
           path: quartz-site/public

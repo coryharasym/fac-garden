@@ -39,3 +39,9 @@ See [docs/FAC-DESIGN-GUIDE.md](docs/FAC-DESIGN-GUIDE.md) for typography, colours
 If the published base path changes, update `configuration.baseUrl`, `base` in `scripts/finalize-site.mjs`, and `origin`/`prefix` in `scripts/verify-site-links.mjs`.
 
 Keep link resolution set to `absolute`: source links use paths from the content root. Keep `note-properties` enabled with `hidePropertiesView: true`; this plugin parses frontmatter even when the properties panel is hidden. Validation also rejects empty hubs, missing page/search titles, incorrect First Steps destinations, and missing local assets.
+
+## Blog catalogue and publication dates
+
+`data/fac-blog-posts.json` records the original FAC article URL, publication and update timestamps, a short curated summary, categories, and theme connections. The 79 article records were checked against FAC’s public blog sitemap and each page’s `BlogPosting` metadata on 2026-11-02. Calendar dates follow `America/Edmonton` to match FAC’s Calgary dates, including late-evening posts whose UTC date is the following day. Original publication and subsequent source updates are separate fields.
+
+Run `node scripts/update-blog.mjs` after editing the catalogue to regenerate article entries, the chronological blog directory, and category pages. Existing article paths are preserved. The build uses `defaultDateType: published` and `TZ: America/Edmonton` so Quartz lists use the source publication date. `node scripts/verify-blog-catalogue.mjs <quartz-public-directory>` checks the generated article dates and catalogue connections before deployment. Updates from FAC are reviewed manually; this is not an automatic live feed.

@@ -1,17 +1,35 @@
 ---
 title: "Beyond the Live Stream: Discovering Community at FAC"
 description: "An exploration of how online church engagement can become deeper friendship, belonging, and participation."
+date: "2026-10-29"
+created: "2026-10-29T15:00:19.314Z"
+published: "2026-10-29T15:00:19.314Z"
+modified: "2026-10-29T15:00:19.314Z"
+source_url: "https://www.faccalgary.com/post/beyond-the-live-stream"
+source_verified: "2026-11-02"
+tags:
+  - fac-blog
+  - life-at-fac
 ---
+
 # Beyond the Live Stream: Discovering Community at FAC
 
-**Source:** [Read the original resource on FAC's website](https://www.faccalgary.com/post/beyond-the-live-stream)
+**FAC publication date:** 2026-10-29
 
-**Collection:** Faith in Community · **Type:** Original FAC resource (external)
+**Browse by category:** [[blog/categories/life-at-fac|Life at FAC]]
 
 An exploration of how online church engagement can become deeper friendship, belonging, and participation.
 
-## Continue exploring
+**[Read the original article on First Alliance Church’s website](https://www.faccalgary.com/post/beyond-the-live-stream)**
 
-[[notes/belonging-and-community]] · [[archive/index|Resource Archive]]
+## Related themes
 
-*This is a curated summary, not a reproduction or official adaptation of the source.*
+[[topics/faith-in-community|Faith in Community]]
+
+## Garden notes
+
+[[notes/belonging-and-community]]
+
+[[blog/index|All Blog & Stories]] · [[topics/index|Explore Topics]] · [[index|Home]]
+
+*This is a short independently curated catalogue entry. Original writing and attribution remain with FAC.*

@@ -2,22 +2,34 @@
 title: "Meet the Ecuador Short-Term Missions Team!"
 description: "Introducing a group preparing to learn from and serve alongside partners in Ecuador."
 date: "2026-06-17"
+created: "2026-06-17T19:04:53.000Z"
+published: "2026-06-17T19:04:53.000Z"
+modified: "2026-06-17T19:04:53.000Z"
+source_url: "https://www.faccalgary.com/post/ecuador-short-term-missions-team"
+source_verified: "2026-11-02"
 tags:
   - fac-blog
   - community
-source_url: "https://www.faccalgary.com/post/ecuador-short-term-missions-team"
 ---
 
 # Meet the Ecuador Short-Term Missions Team!
 
-**FAC publication date:** 2026-06-17 · **Category:** [[blog/categories/community|Community]]
+**FAC publication date:** 2026-06-17
+
+**Browse by category:** [[blog/categories/community|Community]]
 
 Introducing a group preparing to learn from and serve alongside partners in Ecuador.
 
-**[Read the original article on First Alliance Church's website](https://www.faccalgary.com/post/ecuador-short-term-missions-team)**
+**[Read the original article on First Alliance Church’s website](https://www.faccalgary.com/post/ecuador-short-term-missions-team)**
 
-## Follow connections
+## Related themes
 
-[[notes/belonging-and-community|Related garden note]] · [[blog/index|Browse FAC Blog & Stories]]
+[[topics/mission-and-serving|Mission, Serving & Neighbourhoods]]
 
-*This is a short independently curated catalogue entry, not a copy of the source article. The original source and its attribution remain with FAC.*
+## Garden notes
+
+[[notes/belonging-and-community]]
+
+[[blog/index|All Blog & Stories]] · [[topics/index|Explore Topics]] · [[index|Home]]
+
+*This is a short independently curated catalogue entry. Original writing and attribution remain with FAC.*

@@ -1,0 +1,1832 @@
+{
+  "verifiedOn": "2026-11-02",
+  "sourceSitemap": "https://www.faccalgary.com/blog-posts-sitemap.xml",
+  "dateSource": "BlogPosting.datePublished and dateModified from each original FAC article; calendar dates use America/Edmonton to match FAC’s Calgary dates.",
+  "themes": [
+    {
+      "slug": "baptism-and-new-life",
+      "title": "Baptism & New Beginnings"
+    },
+    {
+      "slug": "bible-and-beliefs",
+      "title": "The Bible & Christian Beliefs"
+    },
+    {
+      "slug": "everyday-faith",
+      "title": "Everyday Faith & Priorities"
+    },
+    {
+      "slug": "exploring-faith",
+      "title": "Exploring Faith"
+    },
+    {
+      "slug": "faith-and-culture",
+      "title": "Faith, Culture & Our Neighbours"
+    },
+    {
+      "slug": "faith-in-community",
+      "title": "Faith in Community"
+    },
+    {
+      "slug": "family-and-relationships",
+      "title": "Family, Marriage & Parenting"
+    },
+    {
+      "slug": "following-jesus",
+      "title": "Following Jesus"
+    },
+    {
+      "slug": "grief-and-healing",
+      "title": "Grief, Recovery & Healing"
+    },
+    {
+      "slug": "mercy-and-grace",
+      "title": "Mercy, Grace & Forgiveness"
+    },
+    {
+      "slug": "mission-and-serving",
+      "title": "Mission, Serving & Neighbourhoods"
+    },
+    {
+      "slug": "prayer-and-listening",
+      "title": "Prayer & Listening"
+    },
+    {
+      "slug": "spiritual-formation",
+      "title": "Spiritual Growth & Learning"
+    },
+    {
+      "slug": "trust-and-hope",
+      "title": "Trust, Hope & Life Decisions"
+    },
+    {
+      "slug": "worship-and-creativity",
+      "title": "Worship & Creativity"
+    }
+  ],
+  "posts": [
+    {
+      "path": "archive/beyond-the-live-stream",
+      "url": "https://www.faccalgary.com/post/beyond-the-live-stream",
+      "title": "Beyond the Live Stream: Discovering Community at FAC",
+      "summary": "An exploration of how online church engagement can become deeper friendship, belonging, and participation.",
+      "publicationDate": "2026-10-29",
+      "modifiedDate": "2026-10-29",
+      "published": "2026-10-29T15:00:19.314Z",
+      "modified": "2026-10-29T15:00:19.314Z",
+      "sourceCategories": [
+        "life-at-fac"
+      ],
+      "categories": [
+        "life-at-fac"
+      ],
+      "themes": [
+        "faith-in-community"
+      ],
+      "notes": [
+        "notes/belonging-and-community"
+      ]
+    },
+    {
+      "path": "blog/on-mission-together",
+      "url": "https://www.faccalgary.com/post/on-mission-together",
+      "title": "On Mission Together",
+      "summary": "A reflection on joining together rather than working alone in God's mission.",
+      "publicationDate": "2026-10-22",
+      "modifiedDate": "2026-10-22",
+      "published": "2026-10-22T14:25:39.000Z",
+      "modified": "2026-10-22T14:26:35.966Z",
+      "sourceCategories": [
+        "community",
+        "teaching-reflection"
+      ],
+      "categories": [
+        "community",
+        "teaching-reflection"
+      ],
+      "themes": [
+        "mission-and-serving"
+      ],
+      "notes": [
+        "notes/belonging-and-community"
+      ]
+    },
+    {
+      "path": "blog/faith-beyond-performance",
+      "url": "https://www.faccalgary.com/post/faith-beyond-performance",
+      "title": "Finding Faith Beyond Performance",
+      "summary": "A personal reflection on receiving God's love rather than trying to earn it through performance.",
+      "publicationDate": "2026-10-15",
+      "modifiedDate": "2026-10-15",
+      "published": "2026-10-15T14:07:22.927Z",
+      "modified": "2026-10-15T14:07:22.927Z",
+      "sourceCategories": [
+        "stories"
+      ],
+      "categories": [
+        "stories"
+      ],
+      "themes": [
+        "mercy-and-grace"
+      ],
+      "notes": [
+        "notes/treasuring-jesus"
+      ]
+    },
+    {
+      "path": "blog/god-is-faithful-he-is-enough",
+      "url": "https://www.faccalgary.com/post/god-is-faithful-he-is-enough",
+      "title": "God Is Faithful; He Is Enough!",
+      "summary": "A personal testimony of God's faithfulness during adversity.",
+      "publicationDate": "2026-10-08",
+      "modifiedDate": "2026-10-08",
+      "published": "2026-10-08T14:00:06.000Z",
+      "modified": "2026-10-08T14:00:06.460Z",
+      "sourceCategories": [
+        "stories"
+      ],
+      "categories": [
+        "stories"
+      ],
+      "themes": [
+        "grief-and-healing",
+        "trust-and-hope"
+      ],
+      "notes": [
+        "notes/mercy-and-grace"
+      ]
+    },
+    {
+      "path": "blog/what-could-all-helping-look-like",
+      "url": "https://www.faccalgary.com/post/what-could-all-helping-look-like",
+      "title": "What Could All Helping Look Like for You?",
+      "summary": "Exploring service as part of following Jesus and participating in church life.",
+      "publicationDate": "2026-09-30",
+      "modifiedDate": "2026-09-30",
+      "published": "2026-09-30T23:44:13.147Z",
+      "modified": "2026-09-30T23:44:13.147Z",
+      "sourceCategories": [
+        "teaching-reflection",
+        "life-at-fac"
+      ],
+      "categories": [
+        "teaching-reflection",
+        "life-at-fac"
+      ],
+      "themes": [
+        "everyday-faith",
+        "mission-and-serving"
+      ],
+      "notes": [
+        "notes/everyday-discipleship"
+      ]
+    },
+    {
+      "path": "blog/why-a-mission-to-ecuador",
+      "url": "https://www.faccalgary.com/post/why-a-mission-to-ecuador",
+      "title": "Why I Went on a Mission Trip to Ecuador",
+      "summary": "A participant shares how a desire to join a mission trip became a step of faith.",
+      "publicationDate": "2026-09-24",
+      "modifiedDate": "2026-09-24",
+      "published": "2026-09-24T14:00:15.450Z",
+      "modified": "2026-09-24T14:00:15.450Z",
+      "sourceCategories": [
+        "community"
+      ],
+      "categories": [
+        "community"
+      ],
+      "themes": [
+        "mission-and-serving"
+      ],
+      "notes": [
+        "notes/everyday-discipleship"
+      ]
+    },
+    {
+      "path": "blog/be-the-village",
+      "url": "https://www.faccalgary.com/post/be-the-village",
+      "title": "Be the Village: How to Be a Good Neighbour this Fall",
+      "summary": "Encouragement to support neighbours and look for practical ways to show up for others.",
+      "publicationDate": "2026-09-17",
+      "modifiedDate": "2026-09-17",
+      "published": "2026-09-17T14:00:17.250Z",
+      "modified": "2026-09-17T14:00:17.250Z",
+      "sourceCategories": [
+        "community",
+        "teaching-reflection"
+      ],
+      "categories": [
+        "community",
+        "teaching-reflection"
+      ],
+      "themes": [
+        "faith-in-community",
+        "family-and-relationships",
+        "mission-and-serving"
+      ],
+      "notes": [
+        "notes/belonging-and-community"
+      ]
+    },
+    {
+      "path": "archive/is-jesus-enough",
+      "url": "https://www.faccalgary.com/post/is-jesus-enough",
+      "title": "Is Jesus Enough, or Is It \"Jesus Plus\"?",
+      "summary": "An FAC conversation reflecting on Malachi, spiritual drift, and whether knowing Jesus is enough without adding other conditions.",
+      "publicationDate": "2026-09-10",
+      "modifiedDate": "2026-09-10",
+      "published": "2026-09-10T14:00:18.015Z",
+      "modified": "2026-09-10T14:00:18.015Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "everyday-faith",
+        "exploring-faith"
+      ],
+      "notes": [
+        "notes/treasuring-jesus"
+      ]
+    },
+    {
+      "path": "archive/putting-god-first",
+      "url": "https://www.faccalgary.com/post/putting-god-first-this-fall",
+      "title": "Putting God First This Fall",
+      "summary": "A reflection on Haggai, competing priorities, and realigning everyday life around Jesus.",
+      "publicationDate": "2026-09-03",
+      "modifiedDate": "2026-09-03",
+      "published": "2026-09-03T14:00:24.173Z",
+      "modified": "2026-09-03T14:00:24.173Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "everyday-faith",
+        "following-jesus"
+      ],
+      "notes": [
+        "notes/treasuring-jesus"
+      ]
+    },
+    {
+      "path": "blog/why-spiritual-formation-is-important",
+      "url": "https://www.faccalgary.com/post/why-spiritual-formation-is-important",
+      "title": "Why Spiritual Formation Is More Important Than Ever",
+      "summary": "The importance of ongoing spiritual formation through learning, community, and practice.",
+      "publicationDate": "2026-08-27",
+      "modifiedDate": "2026-09-02",
+      "published": "2026-08-27T14:00:11.000Z",
+      "modified": "2026-09-02T21:20:39.702Z",
+      "sourceCategories": [
+        "teaching-reflection",
+        "life-at-fac"
+      ],
+      "categories": [
+        "teaching-reflection",
+        "life-at-fac"
+      ],
+      "themes": [
+        "spiritual-formation"
+      ],
+      "notes": [
+        "notes/everyday-discipleship"
+      ]
+    },
+    {
+      "path": "blog/introducing-fac-school-of-ministry",
+      "url": "https://www.faccalgary.com/post/introducing-fac-school-of-ministry",
+      "title": "Introducing FAC School of Ministry: Inside the Student Experience",
+      "summary": "A look at FAC's ministry training program from the perspective of students.",
+      "publicationDate": "2026-08-20",
+      "modifiedDate": "2026-08-20",
+      "published": "2026-08-20T13:00:12.622Z",
+      "modified": "2026-08-20T13:00:12.622Z",
+      "sourceCategories": [
+        "life-at-fac"
+      ],
+      "categories": [
+        "life-at-fac"
+      ],
+      "themes": [
+        "spiritual-formation"
+      ],
+      "notes": [
+        "notes/everyday-discipleship"
+      ]
+    },
+    {
+      "path": "blog/young-adults-fac-southwest",
+      "url": "https://www.faccalgary.com/post/young-adults-fac-southwest",
+      "title": "Launching Young Adults at FAC Southwest",
+      "summary": "The hope behind creating a community for young adults to build friendships and grow in faith.",
+      "publicationDate": "2026-08-13",
+      "modifiedDate": "2026-08-13",
+      "published": "2026-08-13T14:00:07.000Z",
+      "modified": "2026-08-13T14:51:03.201Z",
+      "sourceCategories": [
+        "life-at-fac",
+        "stories",
+        "community"
+      ],
+      "categories": [
+        "life-at-fac",
+        "stories",
+        "community"
+      ],
+      "themes": [
+        "faith-in-community"
+      ],
+      "notes": [
+        "notes/belonging-and-community"
+      ]
+    },
+    {
+      "path": "blog/gen-z-spiritual-hunger",
+      "url": "https://www.faccalgary.com/post/gen-z-spiritual-hunger",
+      "title": "Gen Z’s Spiritual Hunger Gives Me Hope. Here’s What the Church Can Learn",
+      "summary": "Considering spiritual curiosity among younger adults and how churches might respond.",
+      "publicationDate": "2026-08-06",
+      "modifiedDate": "2026-08-06",
+      "published": "2026-08-06T14:00:12.914Z",
+      "modified": "2026-08-06T14:00:12.914Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "exploring-faith"
+      ],
+      "notes": [
+        "notes/mercy-and-grace"
+      ]
+    },
+    {
+      "path": "blog/what-jonah-teaches-us-about-mercy",
+      "url": "https://www.faccalgary.com/post/what-jonah-teaches-us-about-mercy",
+      "title": "What Jonah Teaches Us About God's Mercy (Even When We Want to Run)",
+      "summary": "A reflection on Jonah, God's mercy, and extending compassion beyond ourselves.",
+      "publicationDate": "2026-07-30",
+      "modifiedDate": "2026-07-30",
+      "published": "2026-07-30T17:58:37.000Z",
+      "modified": "2026-07-30T20:01:02.635Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "mercy-and-grace"
+      ],
+      "notes": [
+        "notes/mercy-and-grace"
+      ]
+    },
+    {
+      "path": "blog/celebrate-recovery-healing",
+      "url": "https://www.faccalgary.com/post/celebrate-recovery-healing",
+      "title": "How Celebrate Recovery Became Part of My Healing Journey",
+      "summary": "A personal story about seeking support, recovery, and honest community.",
+      "publicationDate": "2026-07-23",
+      "modifiedDate": "2026-07-23",
+      "published": "2026-07-23T17:33:37.654Z",
+      "modified": "2026-07-23T17:33:37.654Z",
+      "sourceCategories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "categories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "themes": [
+        "faith-in-community",
+        "grief-and-healing"
+      ],
+      "notes": [
+        "notes/belonging-and-community"
+      ]
+    },
+    {
+      "path": "blog/joining-jesus-in-ogden",
+      "url": "https://www.faccalgary.com/post/joining-jesus-in-ogden",
+      "title": "Joining Jesus in Ogden: A New Expression of FAC this Fall",
+      "summary": "The relationships and local partnerships behind FAC's growing presence in Ogden.",
+      "publicationDate": "2026-07-16",
+      "modifiedDate": "2026-07-16",
+      "published": "2026-07-16T14:10:23.000Z",
+      "modified": "2026-07-16T14:10:23.000Z",
+      "sourceCategories": [
+        "community",
+        "life-at-fac"
+      ],
+      "categories": [
+        "community",
+        "life-at-fac"
+      ],
+      "themes": [
+        "mission-and-serving"
+      ],
+      "notes": [
+        "notes/belonging-and-community"
+      ]
+    },
+    {
+      "path": "blog/why-not-now",
+      "url": "https://www.faccalgary.com/post/why-not-now",
+      "title": "“Why not now?” Dawn’s Story",
+      "summary": "An account of exploring Christianity through Alpha and considering a personal commitment to Jesus.",
+      "publicationDate": "2026-07-09",
+      "modifiedDate": "2026-07-09",
+      "published": "2026-07-09T14:00:41.182Z",
+      "modified": "2026-07-09T14:00:41.182Z",
+      "sourceCategories": [],
+      "categories": [
+        "stories",
+        "first-steps"
+      ],
+      "themes": [
+        "exploring-faith"
+      ],
+      "notes": [
+        "notes/treasuring-jesus"
+      ]
+    },
+    {
+      "path": "blog/trusting-god-with-my-next-step",
+      "url": "https://www.faccalgary.com/post/trusting-god-with-my-next-step",
+      "title": "Trusting God With My Next Step: Ava’s Story",
+      "summary": "A young person's journey through uncertainty and trust in God while making life decisions.",
+      "publicationDate": "2026-07-02",
+      "modifiedDate": "2026-07-02",
+      "published": "2026-07-02T14:01:09.349Z",
+      "modified": "2026-07-02T14:01:09.349Z",
+      "sourceCategories": [],
+      "categories": [
+        "stories"
+      ],
+      "themes": [
+        "trust-and-hope"
+      ],
+      "notes": [
+        "notes/everyday-discipleship"
+      ]
+    },
+    {
+      "path": "blog/walking-with-jesus-this-summer",
+      "url": "https://www.faccalgary.com/post/walking-with-jesus-this-summer",
+      "title": "Walking with Jesus this Summer",
+      "summary": "Encouragement to be attentive to God's presence through everyday summer life.",
+      "publicationDate": "2026-06-25",
+      "modifiedDate": "2026-06-25",
+      "published": "2026-06-25T13:00:23.000Z",
+      "modified": "2026-06-25T13:00:23.000Z",
+      "sourceCategories": [],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "everyday-faith",
+        "prayer-and-listening"
+      ],
+      "notes": [
+        "notes/prayer-and-listening"
+      ]
+    },
+    {
+      "path": "blog/ecuador-short-term-missions-team",
+      "url": "https://www.faccalgary.com/post/ecuador-short-term-missions-team",
+      "title": "Meet the Ecuador Short-Term Missions Team!",
+      "summary": "Introducing a group preparing to learn from and serve alongside partners in Ecuador.",
+      "publicationDate": "2026-06-17",
+      "modifiedDate": "2026-06-17",
+      "published": "2026-06-17T19:04:53.000Z",
+      "modified": "2026-06-17T19:04:53.000Z",
+      "sourceCategories": [
+        "community"
+      ],
+      "categories": [
+        "community"
+      ],
+      "themes": [
+        "mission-and-serving"
+      ],
+      "notes": [
+        "notes/belonging-and-community"
+      ]
+    },
+    {
+      "path": "blog/summer-reading-picks",
+      "url": "https://www.faccalgary.com/post/summer-reading-picks",
+      "title": "Summer Reading Picks from Our Pastors",
+      "summary": "FAC pastors share books from their summer reading and explain what drew them to those choices.",
+      "publicationDate": "2026-06-11",
+      "modifiedDate": "2026-06-11",
+      "published": "2026-06-11T14:00:28.177Z",
+      "modified": "2026-06-11T14:00:28.177Z",
+      "sourceCategories": [
+        "life-at-fac"
+      ],
+      "categories": [
+        "life-at-fac"
+      ],
+      "themes": [
+        "spiritual-formation",
+        "bible-and-beliefs"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/why-worship-matters",
+      "url": "https://www.faccalgary.com/post/why-worship-matters",
+      "title": "Why Worship Matters",
+      "summary": "Explore worship as a response to God that reaches beyond songs into a life of devotion.",
+      "publicationDate": "2026-06-04",
+      "modifiedDate": "2026-06-04",
+      "published": "2026-06-04T14:48:37.000Z",
+      "modified": "2026-06-04T15:18:09.081Z",
+      "sourceCategories": [],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "worship-and-creativity",
+        "following-jesus"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/what-if-god-is-real",
+      "url": "https://www.faccalgary.com/post/what-if-god-is-real",
+      "title": "\"What if God is Real?\" Erin’s Story",
+      "summary": "A personal account of unexpected questions about God and a growing desire to know Jesus.",
+      "publicationDate": "2026-05-27",
+      "modifiedDate": "2026-05-28",
+      "published": "2026-05-27T15:34:09.000Z",
+      "modified": "2026-05-28T16:01:43.631Z",
+      "sourceCategories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "categories": [
+        "stories",
+        "life-at-fac",
+        "first-steps"
+      ],
+      "themes": [
+        "exploring-faith"
+      ],
+      "notes": [
+        "notes/treasuring-jesus"
+      ]
+    },
+    {
+      "path": "blog/starting-over-with-god",
+      "url": "https://www.faccalgary.com/post/starting-over-with-god",
+      "title": "Starting Over with God: Oge's Story",
+      "summary": "A journey of questioning faith and finding a new beginning through Alpha.",
+      "publicationDate": "2026-05-21",
+      "modifiedDate": "2026-05-21",
+      "published": "2026-05-21T14:00:23.898Z",
+      "modified": "2026-05-21T14:00:23.898Z",
+      "sourceCategories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "categories": [
+        "stories",
+        "life-at-fac",
+        "first-steps"
+      ],
+      "themes": [
+        "baptism-and-new-life",
+        "trust-and-hope"
+      ],
+      "notes": [
+        "notes/mercy-and-grace"
+      ]
+    },
+    {
+      "path": "blog/the-lie-of-false-humility",
+      "url": "https://www.faccalgary.com/post/the-lie-of-false-humility",
+      "title": "The Lie of False Humility",
+      "summary": "Explore the tension between wanting to be humble and recognizing unhealthy ideas about humility.",
+      "publicationDate": "2026-05-13",
+      "modifiedDate": "2026-05-13",
+      "published": "2026-05-13T15:00:11.648Z",
+      "modified": "2026-05-13T15:00:11.648Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "spiritual-formation",
+        "mercy-and-grace"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/following-gods-lead-parenthood",
+      "url": "https://www.faccalgary.com/post/following-gods-lead-parenthood",
+      "title": "Following God’s Lead into Parenthood: Paul & Michelle’s Story",
+      "summary": "Paul and Michelle share how waiting, adoption, and faith shaped their journey into parenthood.",
+      "publicationDate": "2026-05-07",
+      "modifiedDate": "2026-05-07",
+      "published": "2026-05-07T14:00:19.316Z",
+      "modified": "2026-05-07T14:00:19.316Z",
+      "sourceCategories": [],
+      "categories": [
+        "family-life"
+      ],
+      "themes": [
+        "family-and-relationships",
+        "trust-and-hope"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/update-from-buzz-myrna",
+      "url": "https://www.faccalgary.com/post/update-from-buzz-myrna",
+      "title": "\"We would NEVER do that!\" An Update from Buzz & Myrna",
+      "summary": "Buzz and Myrna describe unexpected opportunities to serve and the role of prayer and support in their work.",
+      "publicationDate": "2026-04-28",
+      "modifiedDate": "2026-04-28",
+      "published": "2026-04-28T19:56:26.746Z",
+      "modified": "2026-04-28T21:03:11.667Z",
+      "sourceCategories": [
+        "community",
+        "stories"
+      ],
+      "categories": [
+        "community",
+        "stories"
+      ],
+      "themes": [
+        "mission-and-serving",
+        "trust-and-hope"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/meet-joel-deerfoot-music-associate",
+      "url": "https://www.faccalgary.com/post/meet-joel-deerfoot-music-associate",
+      "title": "Meet Joel: FAC Deerfoot Campus Music Associate!",
+      "summary": "An introduction to Joel and his sense of calling to serve through music at FAC Deerfoot.",
+      "publicationDate": "2026-04-23",
+      "modifiedDate": "2026-04-23",
+      "published": "2026-04-23T14:29:12.069Z",
+      "modified": "2026-04-23T14:47:06.785Z",
+      "sourceCategories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "categories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "themes": [
+        "worship-and-creativity",
+        "faith-in-community"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/searching-for-wisdom",
+      "url": "https://www.faccalgary.com/post/searching-for-wisdom",
+      "title": "Searching for Wisdom",
+      "summary": "A reflection on seeking practical wisdom from Proverbs and applying it to everyday decisions.",
+      "publicationDate": "2026-04-14",
+      "modifiedDate": "2026-04-15",
+      "published": "2026-04-14T16:37:48.742Z",
+      "modified": "2026-04-15T17:30:39.360Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "bible-and-beliefs",
+        "everyday-faith"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/proverbs-in-a-new-light",
+      "url": "https://www.faccalgary.com/post/proverbs-in-a-new-light",
+      "title": "Seeing Proverbs in a New Light",
+      "summary": "A personal reflection explores how reading Proverbs can reshape everyday relationships and choices.",
+      "publicationDate": "2026-04-07",
+      "modifiedDate": "2026-04-07",
+      "published": "2026-04-07T14:00:21.475Z",
+      "modified": "2026-04-07T14:00:21.475Z",
+      "sourceCategories": [
+        "teaching-reflection",
+        "stories"
+      ],
+      "categories": [
+        "teaching-reflection",
+        "stories"
+      ],
+      "themes": [
+        "bible-and-beliefs",
+        "everyday-faith"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/life-is-a-miracle",
+      "url": "https://www.faccalgary.com/post/life-is-a-miracle",
+      "title": "Life is a Miracle: Shirley's Story",
+      "summary": "Shirley recounts her family’s experience of a child’s serious heart condition and reflects on faith and gratitude.",
+      "publicationDate": "2026-03-24",
+      "modifiedDate": "2026-03-24",
+      "published": "2026-03-24T17:26:21.422Z",
+      "modified": "2026-03-24T17:31:27.995Z",
+      "sourceCategories": [
+        "stories"
+      ],
+      "categories": [
+        "stories"
+      ],
+      "themes": [
+        "grief-and-healing",
+        "family-and-relationships"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/surprise-step-of-faith",
+      "url": "https://www.faccalgary.com/post/surprise-step-of-faith",
+      "title": "A Surprise Step of Faith at FAC Southwest",
+      "summary": "A story about finding the courage to be baptized and publicly express faith.",
+      "publicationDate": "2026-03-18",
+      "modifiedDate": "2026-03-18",
+      "published": "2026-03-18T19:50:42.688Z",
+      "modified": "2026-03-18T19:50:42.688Z",
+      "sourceCategories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "categories": [
+        "stories",
+        "life-at-fac",
+        "first-steps"
+      ],
+      "themes": [
+        "baptism-and-new-life"
+      ],
+      "notes": [
+        "notes/everyday-discipleship"
+      ]
+    },
+    {
+      "path": "blog/back-to-life",
+      "url": "https://www.faccalgary.com/post/back-to-life",
+      "title": "“He Brought Me Back to Life!”",
+      "summary": "People share glimpses of their experiences of baptism and new life in Jesus.",
+      "publicationDate": "2026-03-11",
+      "modifiedDate": "2026-03-12",
+      "published": "2026-03-11T17:00:27.326Z",
+      "modified": "2026-03-12T20:13:39.035Z",
+      "sourceCategories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "categories": [
+        "stories",
+        "life-at-fac",
+        "first-steps"
+      ],
+      "themes": [
+        "baptism-and-new-life"
+      ],
+      "notes": [
+        "notes/mercy-and-grace"
+      ]
+    },
+    {
+      "path": "blog/a-look-at-ramadan",
+      "url": "https://www.faccalgary.com/post/a-look-at-ramadan",
+      "title": "A Look at Ramadan & Caring for Our Muslim Neighbours",
+      "summary": "Consider thoughtful ways Christians can engage and care for Muslim neighbours during Ramadan.",
+      "publicationDate": "2026-03-02",
+      "modifiedDate": "2026-03-02",
+      "published": "2026-03-02T15:01:56.165Z",
+      "modified": "2026-03-02T16:06:19.635Z",
+      "sourceCategories": [
+        "community"
+      ],
+      "categories": [
+        "community"
+      ],
+      "themes": [
+        "faith-and-culture",
+        "mission-and-serving"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/when-jesus-saw",
+      "url": "https://www.faccalgary.com/post/when-jesus-saw",
+      "title": "When Jesus Saw the Man at the Pool: Seeing, Wellness, and the Work That Continues",
+      "summary": "A reflection on John 5 considers disability, wellness, and restored belonging in the community.",
+      "publicationDate": "2026-02-26",
+      "modifiedDate": "2026-02-26",
+      "published": "2026-02-26T15:00:27.220Z",
+      "modified": "2026-02-26T15:00:27.220Z",
+      "sourceCategories": [
+        "teaching-reflection",
+        "stories"
+      ],
+      "categories": [
+        "teaching-reflection",
+        "stories"
+      ],
+      "themes": [
+        "bible-and-beliefs",
+        "grief-and-healing"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/guide-to-lunar-new-year",
+      "url": "https://www.faccalgary.com/post/guide-to-lunar-new-year",
+      "title": "A Christian Guide to Lunar New Year (Chinese New Year)",
+      "summary": "Explore Lunar New Year traditions and ways Christians can show love within this cultural celebration.",
+      "publicationDate": "2026-02-16",
+      "modifiedDate": "2026-02-16",
+      "published": "2026-02-16T15:00:21.523Z",
+      "modified": "2026-02-16T15:00:21.523Z",
+      "sourceCategories": [
+        "community",
+        "stories"
+      ],
+      "categories": [
+        "community",
+        "stories"
+      ],
+      "themes": [
+        "faith-and-culture",
+        "faith-in-community"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/meet-emmanuel",
+      "url": "https://www.faccalgary.com/post/meet-emmanuel",
+      "title": "Meet Emmanuel, the New Deerfoot Campus Grade School Coordinator!",
+      "summary": "Meet Emmanuel and learn about his new role serving grade-school children at the Deerfoot Campus.",
+      "publicationDate": "2026-02-12",
+      "modifiedDate": "2026-02-12",
+      "published": "2026-02-12T15:03:21.464Z",
+      "modified": "2026-02-12T16:44:37.212Z",
+      "sourceCategories": [
+        "life-at-fac",
+        "stories"
+      ],
+      "categories": [
+        "life-at-fac",
+        "stories"
+      ],
+      "themes": [
+        "family-and-relationships",
+        "faith-in-community"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/local-hands-global-impact",
+      "url": "https://www.faccalgary.com/post/local-hands-global-impact",
+      "title": "Local Hands, Global Impact: About FAC’s SewQuilt Group",
+      "summary": "The SewQuilt Group connects creativity, friendship, and practical contributions to local and global partnerships.",
+      "publicationDate": "2026-02-05",
+      "modifiedDate": "2026-02-05",
+      "published": "2026-02-05T15:00:17.588Z",
+      "modified": "2026-02-05T18:33:02.067Z",
+      "sourceCategories": [
+        "community"
+      ],
+      "categories": [
+        "community"
+      ],
+      "themes": [
+        "mission-and-serving",
+        "worship-and-creativity"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/journey-with-god-through-grief",
+      "url": "https://www.faccalgary.com/post/journey-with-god-through-grief",
+      "title": "Journeying with God through Grief",
+      "summary": "A testimony of receiving care and finding hope while grieving.",
+      "publicationDate": "2026-01-28",
+      "modifiedDate": "2026-01-29",
+      "published": "2026-01-28T17:28:40.196Z",
+      "modified": "2026-01-29T15:32:38.956Z",
+      "sourceCategories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "categories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "themes": [
+        "grief-and-healing"
+      ],
+      "notes": [
+        "notes/belonging-and-community"
+      ]
+    },
+    {
+      "path": "blog/jesus-changed-my-life",
+      "url": "https://www.faccalgary.com/post/jesus-changed-my-life",
+      "title": "“Jesus completely changed my life!”",
+      "summary": "People baptized at FAC share accounts of how following Jesus has changed their lives.",
+      "publicationDate": "2026-01-21",
+      "modifiedDate": "2026-02-19",
+      "published": "2026-01-21T16:21:15.421Z",
+      "modified": "2026-02-19T16:16:10.218Z",
+      "sourceCategories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "categories": [
+        "stories",
+        "life-at-fac",
+        "first-steps"
+      ],
+      "themes": [
+        "baptism-and-new-life",
+        "exploring-faith"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/a-fresh-start-in-jesus",
+      "url": "https://www.faccalgary.com/post/a-fresh-start-in-jesus",
+      "title": "A Fresh Start in Jesus",
+      "summary": "Several people share the journeys that led them to publicly express their faith through baptism.",
+      "publicationDate": "2026-01-15",
+      "modifiedDate": "2026-01-15",
+      "published": "2026-01-15T15:19:44.482Z",
+      "modified": "2026-01-15T15:19:44.482Z",
+      "sourceCategories": [
+        "life-at-fac",
+        "stories"
+      ],
+      "categories": [
+        "life-at-fac",
+        "stories",
+        "first-steps"
+      ],
+      "themes": [
+        "baptism-and-new-life",
+        "exploring-faith"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/finding-hygge-with-jesus",
+      "url": "https://www.faccalgary.com/post/finding-hygge-with-jesus",
+      "title": "Finding Hygge with Jesus",
+      "summary": "Consider winter rhythms of warmth, connection, and spiritual attention through the Danish idea of hygge.",
+      "publicationDate": "2026-01-06",
+      "modifiedDate": "2026-01-06",
+      "published": "2026-01-06T22:30:29.408Z",
+      "modified": "2026-01-06T22:30:29.408Z",
+      "sourceCategories": [
+        "teaching-reflection",
+        "life-at-fac"
+      ],
+      "categories": [
+        "teaching-reflection",
+        "life-at-fac"
+      ],
+      "themes": [
+        "everyday-faith",
+        "prayer-and-listening"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/healing-faith-generations",
+      "url": "https://www.faccalgary.com/post/healing-faith-generations",
+      "title": "Healing After Injustice & Faith Through Generations",
+      "summary": "A personal account connects the lasting effects of injustice with healing and faith across generations.",
+      "publicationDate": "2025-12-29",
+      "modifiedDate": "2025-12-29",
+      "published": "2025-12-29T17:16:28.295Z",
+      "modified": "2025-12-29T17:24:29.370Z",
+      "sourceCategories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "categories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "themes": [
+        "grief-and-healing",
+        "trust-and-hope"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/god-in-the-ordinary",
+      "url": "https://www.faccalgary.com/post/god-in-the-ordinary",
+      "title": "God in the Ordinary: Valentina’s Story",
+      "summary": "Valentina reflects on Jesus entering ordinary circumstances and how that shapes her own story of faith.",
+      "publicationDate": "2025-12-22",
+      "modifiedDate": "2025-12-22",
+      "published": "2025-12-22T16:52:35.742Z",
+      "modified": "2025-12-22T16:55:32.993Z",
+      "sourceCategories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "categories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "themes": [
+        "everyday-faith",
+        "trust-and-hope"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/learning-to-trust-god-in-the-waiting",
+      "url": "https://www.faccalgary.com/post/learning-to-trust-god-in-the-waiting",
+      "title": "Learning to Trust God in the Waiting",
+      "summary": "Pastor Alexandre reflects on the difficulty of waiting and what it can mean to trust God through it.",
+      "publicationDate": "2025-12-15",
+      "modifiedDate": "2025-12-15",
+      "published": "2025-12-15T20:25:01.542Z",
+      "modified": "2025-12-15T20:25:01.542Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "trust-and-hope",
+        "prayer-and-listening"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/a-simple-christmas",
+      "url": "https://www.faccalgary.com/post/a-simple-christmas",
+      "title": "A Simple Christmas: Returning to What Matters Most",
+      "summary": "A reflection on slowing down at Christmas and making space for Jesus amid busy schedules.",
+      "publicationDate": "2025-12-08",
+      "modifiedDate": "2025-12-08",
+      "published": "2025-12-08T17:48:21.051Z",
+      "modified": "2025-12-08T17:51:52.873Z",
+      "sourceCategories": [
+        "teaching-reflection",
+        "life-at-fac"
+      ],
+      "categories": [
+        "teaching-reflection",
+        "life-at-fac"
+      ],
+      "themes": [
+        "everyday-faith",
+        "following-jesus"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/what-waiting-on-god-taught-me",
+      "url": "https://www.faccalgary.com/post/what-waiting-on-god-taught-me",
+      "title": "What Waiting on God Taught Me",
+      "summary": "Deborah reflects on growing in faith and learning through an extended season of waiting.",
+      "publicationDate": "2025-12-03",
+      "modifiedDate": "2025-12-03",
+      "published": "2025-12-03T22:10:25.537Z",
+      "modified": "2025-12-03T22:12:41.869Z",
+      "sourceCategories": [
+        "stories"
+      ],
+      "categories": [
+        "stories"
+      ],
+      "themes": [
+        "trust-and-hope",
+        "spiritual-formation"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/catechism-planting-seeds",
+      "url": "https://www.faccalgary.com/post/catechism-planting-seeds",
+      "title": "Catechism: Planting Seeds of Understanding",
+      "summary": "A participant reflects on learning foundational Christian beliefs and practices in FAC's catechism class.",
+      "publicationDate": "2025-11-19",
+      "modifiedDate": "2026-01-28",
+      "published": "2025-11-19T07:00:00.000Z",
+      "modified": "2026-01-28T16:19:49.024Z",
+      "sourceCategories": [
+        "life-at-fac",
+        "stories"
+      ],
+      "categories": [
+        "life-at-fac",
+        "stories",
+        "first-steps"
+      ],
+      "themes": [
+        "spiritual-formation"
+      ],
+      "notes": [
+        "notes/everyday-discipleship"
+      ]
+    },
+    {
+      "path": "blog/renewal-of-all-things-atrium-art-project",
+      "url": "https://www.faccalgary.com/post/renewal-of-all-things-atrium-art-project",
+      "title": "Renewal of All Things: Atrium Art Project",
+      "summary": "FAC artists discuss how their atrium artwork explores renewal, relationships, and faith.",
+      "publicationDate": "2025-11-12",
+      "modifiedDate": "2026-01-28",
+      "published": "2025-11-12T21:50:05.619Z",
+      "modified": "2026-01-28T16:19:49.024Z",
+      "sourceCategories": [],
+      "categories": [
+        "life-at-fac"
+      ],
+      "themes": [
+        "worship-and-creativity",
+        "faith-in-community"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/renewed-redeemed-and-baptized",
+      "url": "https://www.faccalgary.com/post/renewed-redeemed-and-baptized",
+      "title": "Renewed, Redeemed, and Baptized!",
+      "summary": "Baptism stories describe personal faith and the changes people associate with following Jesus.",
+      "publicationDate": "2025-11-05",
+      "modifiedDate": "2026-01-28",
+      "published": "2025-11-05T21:00:23.085Z",
+      "modified": "2026-01-28T16:19:49.024Z",
+      "sourceCategories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "categories": [
+        "stories",
+        "life-at-fac",
+        "first-steps"
+      ],
+      "themes": [
+        "baptism-and-new-life",
+        "following-jesus"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/being-still-living-the-rhythms-of-grace",
+      "url": "https://www.faccalgary.com/post/being-still-living-the-rhythms-of-grace",
+      "title": "Being Still & Living the Rhythms of Grace",
+      "summary": "A reflection on making room for stillness and grace when seasonal demands begin to crowd everyday life.",
+      "publicationDate": "2025-10-30",
+      "modifiedDate": "2026-01-28",
+      "published": "2025-10-30T14:00:19.000Z",
+      "modified": "2026-01-28T16:19:49.024Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "prayer-and-listening",
+        "everyday-faith"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/giving-god-our-yes",
+      "url": "https://www.faccalgary.com/post/giving-god-our-yes",
+      "title": "Giving God Our ”Yes”: Tim & Nancy’s Story",
+      "summary": "Tim and Nancy describe how a willingness to serve shaped their lives, work, and involvement in mission.",
+      "publicationDate": "2025-10-23",
+      "modifiedDate": "2026-01-28",
+      "published": "2025-10-23T14:00:54.000Z",
+      "modified": "2026-01-28T16:19:49.024Z",
+      "sourceCategories": [
+        "community"
+      ],
+      "categories": [
+        "community"
+      ],
+      "themes": [
+        "mission-and-serving",
+        "following-jesus"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/god-is-still-writing-your-story",
+      "url": "https://www.faccalgary.com/post/god-is-still-writing-your-story",
+      "title": "God is Still Writing Your Story",
+      "summary": "A personal account explores a difficult past, substance abuse, and the possibility of an unfolding story of renewal.",
+      "publicationDate": "2025-10-16",
+      "modifiedDate": "2026-01-28",
+      "published": "2025-10-16T14:00:27.000Z",
+      "modified": "2026-01-28T16:19:49.024Z",
+      "sourceCategories": [
+        "stories"
+      ],
+      "categories": [
+        "stories"
+      ],
+      "themes": [
+        "grief-and-healing",
+        "trust-and-hope"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/god-s-design-for-friendship-in-a-culture-of-loneliness",
+      "url": "https://www.faccalgary.com/post/god-s-design-for-friendship-in-a-culture-of-loneliness",
+      "title": "God’s Design for Friendship in a Culture of Loneliness",
+      "summary": "A reflection on loneliness and the place of friendship in Christian community.",
+      "publicationDate": "2025-10-02",
+      "modifiedDate": "2026-01-28",
+      "published": "2025-10-02T14:00:16.000Z",
+      "modified": "2026-01-28T16:19:49.024Z",
+      "sourceCategories": [
+        "teaching-reflection",
+        "community"
+      ],
+      "categories": [
+        "teaching-reflection",
+        "community"
+      ],
+      "themes": [
+        "faith-in-community",
+        "family-and-relationships"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/catechism-going-deeper-in-your-walk-with-jesus",
+      "url": "https://www.faccalgary.com/post/catechism-going-deeper-in-your-walk-with-jesus",
+      "title": "Catechism: Going Deeper in Your Walk with Jesus",
+      "summary": "Explore questions about moving beyond attendance into learning and practicing a growing Christian faith.",
+      "publicationDate": "2025-09-25",
+      "modifiedDate": "2026-01-28",
+      "published": "2025-09-25T14:00:06.000Z",
+      "modified": "2026-01-28T16:19:49.024Z",
+      "sourceCategories": [
+        "life-at-fac"
+      ],
+      "categories": [
+        "life-at-fac",
+        "first-steps"
+      ],
+      "themes": [
+        "spiritual-formation",
+        "bible-and-beliefs"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/when-insecurities-speak-louder-than-truth",
+      "url": "https://www.faccalgary.com/post/when-insecurities-speak-louder-than-truth",
+      "title": "When Insecurities Speak Louder Than Truth",
+      "summary": "A reflection on insecurity, past wounds, and learning to recognize the voices shaping our identity.",
+      "publicationDate": "2025-09-18",
+      "modifiedDate": "2026-01-28",
+      "published": "2025-09-18T14:00:28.000Z",
+      "modified": "2026-01-28T16:19:49.023Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "mercy-and-grace",
+        "spiritual-formation"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/the-church-and-social-justice",
+      "url": "https://www.faccalgary.com/post/the-church-and-social-justice",
+      "title": "The Church and Social Justice",
+      "summary": "Consider how responding to violence and injustice connects with the church’s concern for people experiencing poverty.",
+      "publicationDate": "2025-09-11",
+      "modifiedDate": "2026-01-28",
+      "published": "2025-09-11T15:51:47.453Z",
+      "modified": "2026-01-28T16:19:49.023Z",
+      "sourceCategories": [
+        "community"
+      ],
+      "categories": [
+        "community"
+      ],
+      "themes": [
+        "mission-and-serving",
+        "faith-and-culture"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/joining-jesus-in-bringing-hope-to-calgary",
+      "url": "https://www.faccalgary.com/post/joining-jesus-in-bringing-hope-to-calgary",
+      "title": "Joining Jesus in Bringing Hope to Calgary",
+      "summary": "Meet local partners whose work offers practical ways for the FAC community to serve Calgary.",
+      "publicationDate": "2025-09-04",
+      "modifiedDate": "2026-01-28",
+      "published": "2025-09-04T14:00:01.000Z",
+      "modified": "2026-01-28T16:19:49.023Z",
+      "sourceCategories": [
+        "community"
+      ],
+      "categories": [
+        "community"
+      ],
+      "themes": [
+        "mission-and-serving",
+        "faith-in-community"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/a-back-to-school-guide-for-parents",
+      "url": "https://www.faccalgary.com/post/a-back-to-school-guide-for-parents",
+      "title": "A Back-to-School Guide for Parents",
+      "summary": "Ideas to support children and families through school-year transitions.",
+      "publicationDate": "2025-08-27",
+      "modifiedDate": "2026-01-28",
+      "published": "2025-08-27T14:15:29.000Z",
+      "modified": "2026-01-28T16:19:49.023Z",
+      "sourceCategories": [
+        "family-life"
+      ],
+      "categories": [
+        "family-life"
+      ],
+      "themes": [
+        "family-and-relationships"
+      ],
+      "notes": [
+        "notes/belonging-and-community"
+      ]
+    },
+    {
+      "path": "blog/the-rabbi-s-gift-a-parable-for-sanctification",
+      "url": "https://www.faccalgary.com/post/the-rabbi-s-gift-a-parable-for-sanctification",
+      "title": "The Rabbi’s Gift:A Parable for Sanctification",
+      "summary": "A monastic parable opens a reflection on sanctification and seeing one another differently.",
+      "publicationDate": "2025-08-21",
+      "modifiedDate": "2025-11-03",
+      "published": "2025-08-21T14:00:17.000Z",
+      "modified": "2025-11-03T20:29:22.992Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "spiritual-formation",
+        "mercy-and-grace"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/how-fac-global-partnerships-impact-lives-worldwide",
+      "url": "https://www.faccalgary.com/post/how-fac-global-partnerships-impact-lives-worldwide",
+      "title": "How FAC Global Partnerships Impact Lives Worldwide",
+      "summary": "An introduction to global partnerships and how churches and partners participate together in service beyond Calgary.",
+      "publicationDate": "2025-08-14",
+      "modifiedDate": "2025-08-14",
+      "published": "2025-08-14T14:00:33.000Z",
+      "modified": "2025-08-14T14:00:33.000Z",
+      "sourceCategories": [
+        "community"
+      ],
+      "categories": [
+        "community"
+      ],
+      "themes": [
+        "mission-and-serving",
+        "faith-in-community"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/the-heart-behind-our-school-partnerships",
+      "url": "https://www.faccalgary.com/post/the-heart-behind-our-school-partnerships",
+      "title": "The Heart Behind Our School Partnerships",
+      "summary": "A volunteer describes how relationships with local schools create opportunities for practical support.",
+      "publicationDate": "2025-08-07",
+      "modifiedDate": "2025-08-07",
+      "published": "2025-08-07T20:26:24.000Z",
+      "modified": "2025-08-07T20:26:24.000Z",
+      "sourceCategories": [
+        "community"
+      ],
+      "categories": [
+        "community"
+      ],
+      "themes": [
+        "mission-and-serving",
+        "family-and-relationships"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/how-to-fix-your-family",
+      "url": "https://www.faccalgary.com/post/how-to-fix-your-family",
+      "title": "How to Fix Your Family",
+      "summary": "A Christian reflection on family expectations, challenges, and the hope of change.",
+      "publicationDate": "2025-07-10",
+      "modifiedDate": "2025-11-03",
+      "published": "2025-07-10T14:00:42.000Z",
+      "modified": "2025-11-03T20:35:57.146Z",
+      "sourceCategories": [
+        "family-life",
+        "teaching-reflection"
+      ],
+      "categories": [
+        "family-life",
+        "teaching-reflection"
+      ],
+      "themes": [
+        "family-and-relationships"
+      ],
+      "notes": [
+        "notes/mercy-and-grace"
+      ]
+    },
+    {
+      "path": "blog/the-story-behind-every-voice",
+      "url": "https://www.faccalgary.com/post/the-story-behind-every-voice",
+      "title": "The Story Behind Every Voice",
+      "summary": "A reflection on shared worship and the people whose voices contribute to the church’s song.",
+      "publicationDate": "2025-06-19",
+      "modifiedDate": "2026-07-23",
+      "published": "2025-06-19T17:30:50.000Z",
+      "modified": "2026-07-23T18:40:32.768Z",
+      "sourceCategories": [
+        "life-at-fac"
+      ],
+      "categories": [
+        "life-at-fac"
+      ],
+      "themes": [
+        "worship-and-creativity",
+        "faith-in-community"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/a-single-grain-of-salt-a-story-of-faith-from-saudi-arabia",
+      "url": "https://www.faccalgary.com/post/a-single-grain-of-salt-a-story-of-faith-from-saudi-arabia",
+      "title": "A Single Grain of Salt: A Story of Faith from Saudi Arabia",
+      "summary": "A story considers how a person’s search for faith can affect others through ordinary encounters.",
+      "publicationDate": "2025-06-12",
+      "modifiedDate": "2025-11-03",
+      "published": "2025-06-12T14:00:06.000Z",
+      "modified": "2025-11-03T20:48:00.035Z",
+      "sourceCategories": [
+        "community"
+      ],
+      "categories": [
+        "community"
+      ],
+      "themes": [
+        "exploring-faith",
+        "mission-and-serving"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/from-the-firehall-to-faith-david-s-story",
+      "url": "https://www.faccalgary.com/post/from-the-firehall-to-faith-david-s-story",
+      "title": "From the Firehall to Faith: David’s Story",
+      "summary": "David shares how work, friendship, and church community have intersected with his journey of faith.",
+      "publicationDate": "2025-05-22",
+      "modifiedDate": "2025-05-22",
+      "published": "2025-05-22T14:00:13.000Z",
+      "modified": "2025-05-22T14:00:13.000Z",
+      "sourceCategories": [
+        "stories",
+        "life-at-fac"
+      ],
+      "categories": [
+        "stories",
+        "life-at-fac",
+        "first-steps"
+      ],
+      "themes": [
+        "exploring-faith",
+        "faith-in-community"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/fac-as-one-meet-cavalry-fc-s-chanan-chanda",
+      "url": "https://www.faccalgary.com/post/fac-as-one-meet-cavalry-fc-s-chanan-chanda",
+      "title": "FAC as One: Meet Cavalry FC's Chanan Chanda",
+      "summary": "A feature connected to FAC as One introduces Cavalry FC’s Chanan Chanda and the church’s shared gathering.",
+      "publicationDate": "2025-05-01",
+      "modifiedDate": "2026-07-23",
+      "published": "2025-05-01T14:00:19.000Z",
+      "modified": "2026-07-23T18:42:11.403Z",
+      "sourceCategories": [
+        "stories"
+      ],
+      "categories": [
+        "stories"
+      ],
+      "themes": [
+        "faith-in-community",
+        "worship-and-creativity"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/the-waiting-game",
+      "url": "https://www.faccalgary.com/post/the-waiting-game",
+      "title": "The Waiting Game",
+      "summary": "An Advent reflection connects patient waiting with Christian hope and the anticipation of Jesus’ return.",
+      "publicationDate": "2025-04-27",
+      "modifiedDate": "2025-05-20",
+      "published": "2025-04-28T02:32:34.497Z",
+      "modified": "2025-05-20T21:17:53.821Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "trust-and-hope",
+        "prayer-and-listening"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/making-space-for-grace-in-marriage",
+      "url": "https://www.faccalgary.com/post/making-space-for-grace-in-marriage",
+      "title": "Making Space for Grace in Marriage",
+      "summary": "On extending patience, forgiveness, and grace in marriage.",
+      "publicationDate": "2025-04-27",
+      "modifiedDate": "2025-05-20",
+      "published": "2025-04-28T02:31:36.985Z",
+      "modified": "2025-05-20T21:18:12.672Z",
+      "sourceCategories": [
+        "family-life",
+        "teaching-reflection"
+      ],
+      "categories": [
+        "family-life",
+        "teaching-reflection"
+      ],
+      "themes": [
+        "family-and-relationships",
+        "mercy-and-grace"
+      ],
+      "notes": [
+        "notes/mercy-and-grace"
+      ]
+    },
+    {
+      "path": "blog/a-heart-healed-another-made-new-al-s-story",
+      "url": "https://www.faccalgary.com/post/a-heart-healed-another-made-new-al-s-story",
+      "title": "A Heart Healed, Another Made New: Al's Story",
+      "summary": "Al describes moving from skepticism toward questions about God, friendship, and exploring faith through Alpha.",
+      "publicationDate": "2025-01-23",
+      "modifiedDate": "2025-10-28",
+      "published": "2025-01-23T15:00:02.000Z",
+      "modified": "2025-10-28T20:54:25.398Z",
+      "sourceCategories": [
+        "stories"
+      ],
+      "categories": [
+        "stories",
+        "first-steps"
+      ],
+      "themes": [
+        "exploring-faith",
+        "grief-and-healing"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/light-in-the-dark-thoughts-on-halloween",
+      "url": "https://www.faccalgary.com/post/light-in-the-dark-thoughts-on-halloween",
+      "title": "Light in the Dark: Thoughts on Halloween",
+      "summary": "A personal reflection considers Halloween and what Christian presence during the season might look like.",
+      "publicationDate": "2024-10-29",
+      "modifiedDate": "2024-10-29",
+      "published": "2024-10-29T14:00:13.000Z",
+      "modified": "2024-10-29T14:00:13.000Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "faith-and-culture",
+        "family-and-relationships"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/forgive-pearl-s-story",
+      "url": "https://www.faccalgary.com/post/forgive-pearl-s-story",
+      "title": "Forgive: Pearl's Story",
+      "summary": "Pearl shares a difficult personal story and reflects on her journey with forgiveness.",
+      "publicationDate": "2023-12-08",
+      "modifiedDate": "2023-12-08",
+      "published": "2023-12-08T15:00:34.000Z",
+      "modified": "2023-12-08T15:00:34.000Z",
+      "sourceCategories": [
+        "stories"
+      ],
+      "categories": [
+        "stories"
+      ],
+      "themes": [
+        "mercy-and-grace",
+        "grief-and-healing"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/the-sacrifice-of-worship",
+      "url": "https://www.faccalgary.com/post/the-sacrifice-of-worship",
+      "title": "The Sacrifice of Worship",
+      "summary": "A music pastor reflects on the deeper meaning of worship beyond the experience of a weekend service.",
+      "publicationDate": "2023-10-10",
+      "modifiedDate": "2025-11-24",
+      "published": "2023-10-10T17:00:22.000Z",
+      "modified": "2025-11-24T19:21:50.946Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "worship-and-creativity",
+        "following-jesus"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/a-prayer-for-canada-day",
+      "url": "https://www.faccalgary.com/post/a-prayer-for-canada-day",
+      "title": "A Prayer for Canada Day",
+      "summary": "A Canada Day prayer invites gratitude for the land and care for people, creation, and shared relationships.",
+      "publicationDate": "2023-06-30",
+      "modifiedDate": "2025-10-29",
+      "published": "2023-06-30T14:00:45.000Z",
+      "modified": "2025-10-29T20:59:17.893Z",
+      "sourceCategories": [
+        "community"
+      ],
+      "categories": [
+        "community"
+      ],
+      "themes": [
+        "prayer-and-listening",
+        "faith-and-culture"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/is-self-care-in-the-bible",
+      "url": "https://www.faccalgary.com/post/is-self-care-in-the-bible",
+      "title": "Is Self-Care in the Bible?",
+      "summary": "A reflection weighs healthy personal rhythms against a culture that can place the self at the centre.",
+      "publicationDate": "2023-02-03",
+      "modifiedDate": "2025-11-03",
+      "published": "2023-02-03T15:00:51.000Z",
+      "modified": "2025-11-03T20:32:15.023Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "bible-and-beliefs",
+        "everyday-faith"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/a-reflection-on-the-apostles-creed",
+      "url": "https://www.faccalgary.com/post/a-reflection-on-the-apostles-creed",
+      "title": "A Reflection on The Apostles' Creed",
+      "summary": "Explore the history and continuing significance of the Apostles’ Creed as a shared declaration of Christian belief.",
+      "publicationDate": "2022-04-22",
+      "modifiedDate": "2025-10-29",
+      "published": "2022-04-22T17:06:13.000Z",
+      "modified": "2025-10-29T20:45:25.178Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "bible-and-beliefs",
+        "exploring-faith"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/what-does-the-bible-say-about-tattoos",
+      "url": "https://www.faccalgary.com/post/what-does-the-bible-say-about-tattoos",
+      "title": "What Does the Bible Say About Tattoos?",
+      "summary": "A personal question about tattoos leads into considering a biblical passage and how it is interpreted.",
+      "publicationDate": "2019-03-29",
+      "modifiedDate": "2025-10-29",
+      "published": "2019-03-29T20:24:39.000Z",
+      "modified": "2025-10-29T20:43:35.722Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "bible-and-beliefs",
+        "faith-and-culture"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/why-does-god-allow-pain-suffering",
+      "url": "https://www.faccalgary.com/post/why-does-god-allow-pain-suffering",
+      "title": "Why Does God Allow Pain & Suffering?",
+      "summary": "Explore the Christian question of suffering through an article that begins with a young man’s illness and death.",
+      "publicationDate": "2018-06-01",
+      "modifiedDate": "2026-03-17",
+      "published": "2018-06-01T15:05:37.000Z",
+      "modified": "2026-03-17T14:24:03.892Z",
+      "sourceCategories": [
+        "teaching-reflection"
+      ],
+      "categories": [
+        "teaching-reflection"
+      ],
+      "themes": [
+        "grief-and-healing",
+        "exploring-faith"
+      ],
+      "notes": []
+    },
+    {
+      "path": "blog/what-is-child-dedication",
+      "url": "https://www.faccalgary.com/post/what-is-child-dedication",
+      "title": "What is Child Dedication?",
+      "summary": "Explaining child dedication as a family and church-community commitment.",
+      "publicationDate": "2018-02-16",
+      "modifiedDate": "2025-10-29",
+      "published": "2018-02-16T17:16:13.000Z",
+      "modified": "2025-10-29T20:53:00.862Z",
+      "sourceCategories": [
+        "family-life",
+        "teaching-reflection"
+      ],
+      "categories": [
+        "family-life",
+        "teaching-reflection"
+      ],
+      "themes": [
+        "family-and-relationships"
+      ],
+      "notes": [
+        "notes/belonging-and-community"
+      ]
+    }
+  ]
+}

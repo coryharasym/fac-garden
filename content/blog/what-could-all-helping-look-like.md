@@ -2,22 +2,35 @@
 title: "What Could All Helping Look Like for You?"
 description: "Exploring service as part of following Jesus and participating in church life."
 date: "2026-09-30"
+created: "2026-09-30T23:44:13.147Z"
+published: "2026-09-30T23:44:13.147Z"
+modified: "2026-09-30T23:44:13.147Z"
+source_url: "https://www.faccalgary.com/post/what-could-all-helping-look-like"
+source_verified: "2026-11-02"
 tags:
   - fac-blog
   - teaching-reflection
-source_url: "https://www.faccalgary.com/post/what-could-all-helping-look-like"
+  - life-at-fac
 ---
 
 # What Could All Helping Look Like for You?
 
-**FAC publication date:** 2026-09-30 · **Category:** [[blog/categories/teaching-reflection|Teaching & Reflection]]
+**FAC publication date:** 2026-09-30
+
+**Browse by category:** [[blog/categories/teaching-reflection|Teaching & Reflection]] · [[blog/categories/life-at-fac|Life at FAC]]
 
 Exploring service as part of following Jesus and participating in church life.
 
-**[Read the original article on First Alliance Church's website](https://www.faccalgary.com/post/what-could-all-helping-look-like)**
+**[Read the original article on First Alliance Church’s website](https://www.faccalgary.com/post/what-could-all-helping-look-like)**
 
-## Follow connections
+## Related themes
 
-[[notes/everyday-discipleship|Related garden note]] · [[blog/index|Browse FAC Blog & Stories]]
+[[topics/everyday-faith|Everyday Faith & Priorities]] · [[topics/mission-and-serving|Mission, Serving & Neighbourhoods]]
 
-*This is a short independently curated catalogue entry, not a copy of the source article. The original source and its attribution remain with FAC.*
+## Garden notes
+
+[[notes/everyday-discipleship]]
+
+[[blog/index|All Blog & Stories]] · [[topics/index|Explore Topics]] · [[index|Home]]
+
+*This is a short independently curated catalogue entry. Original writing and attribution remain with FAC.*
