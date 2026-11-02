@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: none
-  locale: en-CA
+  locale: en-US
   baseUrl: coryharasym.github.io/fac-garden
   ignorePatterns:
     - private
