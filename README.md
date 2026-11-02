@@ -34,4 +34,8 @@ Source: https://www.faccalgary.com/blog and https://www.faccalgary.com/firststep
 
 ## Brand and navigation implementation
 
-See [docs/FAC-DESIGN-GUIDE.md](docs/FAC-DESIGN-GUIDE.md) for typography, colours, mission and tone. The primary navigation is injected into built HTML by `scripts/finalize-site.mjs` after Quartz renders pages, preventing duplicated base URLs. `scripts/verify-site-links.mjs` checks every generated internal link and the five-item navigation before Pages deployment. The build copies `quartz/styles/custom.scss` into the pinned Quartz engine to apply the FAC design. No local Quartz installation is necessary. If the published base path changes, update `base` in `scripts/prepare-site.mjs` and root-page links. 
+See [docs/FAC-DESIGN-GUIDE.md](docs/FAC-DESIGN-GUIDE.md) for typography, colours, mission and tone. The primary navigation is injected into built HTML by `scripts/finalize-site.mjs` after Quartz renders pages, preventing duplicated base URLs. `scripts/verify-site-links.mjs` checks every generated internal link and the five-item navigation before Pages deployment. The build copies `quartz/styles/custom.scss` into the pinned Quartz engine to apply the FAC design. No local Quartz installation is necessary.
+
+If the published base path changes, update `configuration.baseUrl`, `base` in `scripts/finalize-site.mjs`, and `origin`/`prefix` in `scripts/verify-site-links.mjs`.
+
+Keep link resolution set to `absolute`: source links use paths from the content root. Keep `note-properties` enabled with `hidePropertiesView: true`; this plugin parses frontmatter even when the properties panel is hidden. Validation also rejects empty hubs, missing page/search titles, incorrect First Steps destinations, and missing local assets.
