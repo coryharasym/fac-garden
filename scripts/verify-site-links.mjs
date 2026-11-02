@@ -64,6 +64,8 @@ for(const file of files){
     catch{failures.push(name+": invalid href "+raw);continue;}
     if(url.origin!==origin){external++;continue;}
     internal++;
+    // Quartz 404 page may link to /fac-garden without a trailing slash.
+    if(url.pathname===prefix.slice(0,-1)){ continue; }
     if(!url.pathname.startsWith(prefix)){
       failures.push(name+": link leaves site base "+raw+" → "+url.pathname);continue;
     }
