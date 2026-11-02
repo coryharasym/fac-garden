@@ -1,51 +1,84 @@
+// End-to-end build validation of generated internal site links (not just frontmatter).
+// Resolves each href as a browser would at GitHub Pages' actual project URL.
 import { readFileSync, readdirSync, existsSync, statSync } from "node:fs";
 import { resolve, join, relative, sep } from "node:path";
 const root=resolve(process.argv[2]||"");
 if(!process.argv[2]||!existsSync(root))throw Error("Pass Quartz public directory");
-const base="https://coryharasym.github.io";
+const origin="https://coryharasym.github.io";
 const prefix="/fac-garden/";
-let checked=0;
-const errors=[];
-const pages=[];
-function collect(dir){for(const e of readdirSync(dir,{withFileTypes:true})){const file=join(dir,e.name);if(e.isDirectory())collect(file);else if(e.isFile()&&file.endsWith(".html"))pages.push(file)}}
-collect(root);
-if(!pages.length)throw Error("No generated HTML");
-for(const file of pages){
- const name=relative(root,file).split(sep).join("/");
- const source=readFileSync(file,"utf8");
- if(source.includes("/fac-garden/fac-garden/"))errors.push(name+": duplicated base path");
- if(!source.includes('fac-site-nav') && name!=="404.html")errors.push(name+": navigation missing");
- if(name==="index.html"){
-  const section=source.match(/<div class="fac-card-grid">([\s\S]*?)<\/div>/);
-  if(!section){errors.push("Homepage card grid missing");}
-  else {
-   const cards=[...section[1].matchAll(/<a\b[^>]*class="[^"]*\bfac-card\b[^"]*"[^>]*>([\s\S]*?)<\/a>/g)];
-   if(cards.length!==4)errors.push("Expected four complete homepage cards; got "+cards.length);
-   for(const card of cards){
-    for(const part of ["fac-card-icon","fac-card-title","fac-card-description","fac-card-action"]){
-      if(!card[1].includes(part))errors.push("Homepage card missing "+part);
-    }
-   }
+const navPaths=["","first-steps/","topics/","blog/","archive/"];
+const files=[];
+const failures=[];
+let internal=0,external=0, navCount=0;
+function collect(dir){
+  for(const entry of readdirSync(dir,{withFileTypes:true})){
+    const file=join(dir,entry.name);
+    if(entry.isDirectory())collect(file);
+    else if(entry.isFile()&&file.endsWith(".html"))files.push(file);
   }
- }
- const slug=name==="index.html"?"":name.endsWith("/index.html")?name.slice(0,-10):name;
- const current=new URL(prefix+slug,base);
- const anchors=source.match(/<a\b[^>]*href="[^"]*"[^>]*>/gi)||[];
- for(const tag of anchors){
-   if(name!=="index.html"&&!tag.includes("fac-brand")&&!tag.includes("fac-site-nav")&&!tag.includes("fac-category-card")&&!tag.includes("aria-current"))continue;
-   const match=tag.match(/\bhref="([^"]*)"/i);
-   if(!match)continue;
-   const href=match[1].replace(/&amp;/g,"&");
-   if(!href || href.startsWith("#")||/^(mailto:|tel:|javascript:)/i.test(href))continue;
-   const dest=new URL(href,current);
-   if(dest.hostname!=="coryharasym.github.io")continue;
-   checked++;
-   if(!dest.pathname.startsWith(prefix)||dest.pathname.includes("/fac-garden/fac-garden/")){errors.push(name+": invalid link "+href+" => "+dest.pathname);continue;}
-   const route=decodeURIComponent(dest.pathname.slice(prefix.length));
-   const candidates=route.endsWith("/")?[join(root,route,"index.html")]:[join(root,route+".html"),join(root,route,"index.html"),join(root,route)];
-   if(!candidates.some(p=>existsSync(p)&&statSync(p).isFile()))errors.push(name+": missing "+dest.pathname+" from "+href);
- }
 }
-console.log("FAC link check: "+pages.length+" HTML pages, "+checked+" links checked.");
-if(errors.length){console.error(errors.slice(0,60).join("\n"));throw Error(errors.length+" link errors");}
-console.log("All checked links resolve to generated site pages.");
+collect(root);
+if(files.length<10)throw Error("Too few generated pages: "+files.length);
+function outputExists(pathname){
+  let rel;
+  try {rel=decodeURIComponent(pathname.slice(prefix.length));}
+  catch{return false;}
+  if(rel.includes("\\")||rel.split("/").includes(".."))return false;
+  const options=rel.endsWith("/")?[join(root,rel,"index.html")]:
+    [join(root,rel),join(root,rel+".html"),join(root,rel,"index.html")];
+  return options.some(f=>existsSync(f)&&statSync(f).isFile());
+}
+for(const file of files){
+  const name=relative(root,file).split(sep).join("/");
+  const html=readFileSync(file,"utf8");
+  const navs=[...html.matchAll(/<nav\b[^>]*class="[^"]*\bfac-site-nav\b[^"]*"[^>]*>([\s\S]*?)<\/nav>/gi)];
+  if(name!=="404.html"){
+    if(navs.length!==1)failures.push(name+": expected one main navigation, found "+navs.length);
+    else {
+      navCount++;
+      for(const path of navPaths){
+        if(!navs[0][1].includes('href="'+prefix+path+'"'))
+          failures.push(name+": missing top navigation path "+prefix+path);
+      }
+    }
+  }
+  if(name==="index.html"){
+    const section=html.match(/<div class="fac-card-grid">([\s\S]*?)<\/div>/);
+    if(!section)failures.push("Homepage card grid missing");
+    else {
+      const cards=[...section[1].matchAll(/<a\b[^>]*class="[^"]*\bfac-card\b[^"]*"[^>]*>([\s\S]*?)<\/a>/g)];
+      if(cards.length!==4)failures.push("Expected 4 complete cards, found "+cards.length);
+      for(const card of cards)
+        for(const part of ["fac-card-icon","fac-card-title","fac-card-description","fac-card-action"])
+          if(!card[1].includes(part))failures.push("Homepage card missing "+part);
+    }
+  }
+  const pagePath=name==="index.html"?"":name.endsWith("/index.html")?name.slice(0,-"index.html".length):name;
+  const current=new URL(prefix+pagePath,origin);
+  const links=[...html.matchAll(/<a\b[^>]*\bhref=(?:"([^"]*)"|'([^']*)')[^>]*>/gi)];
+  for(const found of links){
+    const raw=(found[1]??found[2]).replace(/&amp;/g,"&");
+    if(!raw||raw.startsWith("#")||/^(mailto:|tel:|javascript:|data:)/i.test(raw))continue;
+    let url;
+    try {url=new URL(raw,current);}
+    catch{failures.push(name+": invalid href "+raw);continue;}
+    if(url.origin!==origin){external++;continue;}
+    internal++;
+    if(!url.pathname.startsWith(prefix)){
+      failures.push(name+": link leaves site base "+raw+" → "+url.pathname);continue;
+    }
+    if(url.pathname.includes("/fac-garden/fac-garden/")){
+      failures.push(name+": duplicated /fac-garden/ in "+raw);continue;
+    }
+    if(!outputExists(url.pathname)){
+      failures.push(name+": broken internal link "+raw+" → "+url.pathname);
+    }
+  }
+}
+console.log("Checked "+files.length+" HTML pages, "+navCount+" menus, "+
+  internal+" internal links, "+external+" external links.");
+if(failures.length){
+  console.error(failures.slice(0,100).join("\n"));
+  throw Error(failures.length+" link/navigation checks failed");
+}
+console.log("All internal links resolve to files generated by Quartz.");
