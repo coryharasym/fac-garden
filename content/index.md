@@ -11,11 +11,19 @@ This is an emerging collection of ideas, questions, and learning resources inspi
 
 Unlike a traditional archive, a *digital garden* grows through connections: an article may lead to a question, a question to a Bible passage, and a practice to life in community.
 
+## New to faith? Begin with First Steps
+
+**[[first-steps/index|First Steps at FAC]]** is a welcoming starting point for exploring Jesus, Christian belief, and life with others. Follow pathways into **[[first-steps/alpha|Alpha]]**, **[[first-steps/baptism|Baptism]]**, **[[first-steps/classes|Classes and Catechism]]**, and **[[first-steps/discipleship-bands|Discipleship Bands]]**.
+
 ## Choose a place to begin
 
 - **[[topics/exploring-faith|Exploring Faith]]** — Questions about Jesus, Christian belief, and the Bible.
 - **[[topics/following-jesus|Following Jesus]]** — Prayer, trust, spiritual habits, and growing as a disciple.
 - **[[topics/faith-in-community|Faith in Community]]** — Belonging, relationships, generosity, and serving others.
+
+## Browse FAC's blog and stories
+
+**[[blog/index|Browse 30 selected FAC Blog & Stories posts]]** by theme or date. Each entry links to the full original article on FAC's site.
 
 ## Two ways to explore
 

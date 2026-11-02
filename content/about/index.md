@@ -17,3 +17,8 @@ The FAC Digital Garden is an early, independently maintained experiment in makin
 - Label exploratory notes as such; refer readers to FAC for official statements.
 
 Visit [First Alliance Church Calgary](https://www.faccalgary.com/) for official information. [[index|Return home]].
+
+
+## First Steps and the blog
+
+This garden offers curated guides to FAC's official [[first-steps/index|First Steps]] pathway and a selected [[blog/index|blog catalogue]]. Full resources, sign-up information, pastoral contact, and policy remain on [FAC's official website](https://www.faccalgary.com/).

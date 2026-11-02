@@ -11,6 +11,12 @@ Discipleship means learning to walk with Jesus in ordinary life. Here are starti
 - [[notes/prayer-and-listening|Prayer and listening]]
 - [[notes/treasuring-jesus|Treasuring Jesus]]
 
+## Practical next steps
+
+- [[first-steps/baptism|Explore Baptism]]
+- [[first-steps/classes|Learn through Classes and Catechism]]
+- [[first-steps/discipleship-bands|Grow with a Discipleship Band]]
+
 ## Resources from FAC
 
 - [[archive/putting-god-first|Putting God First This Fall]]

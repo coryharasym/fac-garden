@@ -3,6 +3,8 @@ title: FAC Resource Archive
 ---
 # FAC Resource Archive
 
+Browse **[[blog/index|FAC Blog & Stories]]** for 30 selected articles, or **[[first-steps/index|First Steps]]** for FAC's pathway into faith and discipleship.
+
 Short introductions to existing FAC articles and ministry resources. **Full original content remains on FAC's website.**
 
 - [[archive/is-jesus-enough|Is Jesus Enough, or Is It Jesus Plus?]] — An FAC conversation reflecting on Malachi, spiritual drift, and whether knowing Jesus is enough without adding other conditions.
